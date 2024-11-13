@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<p>
+    <time datetime="{{ .Date }}">
+        {{ .Date | time.Format site.Params.theme_config.date_format }}
+    </time>
+</p>
+
+<div id="posts">
+
+    {{ if .Params.toc }}
+    <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
+        {{ .TableOfContents }}
+    </aside>
+    {{ end }}
+
+    {{ if .Params.banner }}
+    <div class="col-md-5 col-sm-12 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="media-card">
+            <img src="{{ .Params.banner }}" class="img-responsive" alt="escrevendo img">
+
+            {{ if .Params.caption }}
+            <p>{{ .Params.caption }}</p>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+
+    {{ .Content }}
+</div>
+
+<ul class="filter-wrapper clearfix">
+    <h3>Temas similares </h3>
+    {{ with (.GetTerms "tags") }}
+    {{ range . }}
+    <li><a class="opc-main-bg tags" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+    {{ end }}
+</ul>
+
+
+
+{{ end }}

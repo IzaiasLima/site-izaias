@@ -1,0 +1,94 @@
+baseURL = "http://localhost"
+theme = "nostyle"
+relativeURLs = true
+title = "Izaias Lima - Site Pessoal"
+paginate = 4
+languageCode = "pt-br"
+DefaultContentLanguage = "pt-br"
+enableInlineShortcodes = true
+
+[menu]
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Destaques"
+    url = "/#featured"
+    weight = 5
+
+[[menu.main]]
+    name = "Portfólio"
+    url = "/#portfolio"
+    weight = 10
+
+[[menu.main]]
+    name = "Artigos"
+    url = "/posts/"
+    weight = 15
+
+[[menu.main]]
+    identifier = "about"
+    name = "Sobre"
+    url = "/#about"
+    weight = 25
+    
+[[menu.main]]
+    name = "Contato"
+    url = "/#contact"
+    weight = 30
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[params]
+  custom_css = [
+    "/css/animate.min",
+    "/css/bootstrap.min",
+    "/css/template"]
+
+  custom_js = [
+    "/js/jquery",
+    "/js/bootstrap.min",
+    "/js/jquery.flexslider",
+    "/js/isotope",
+    "/js/imagesloaded.min",
+    "/js/smoothscroll",
+    "/js/wow.min",
+    "/js/custom"]
+
+  show_description = true
+  description = "Desenvolvedor de Sistemas, Programador Web experiente e Pastor evangélico. Neste site pessoal, compartilha seus e conhecimentos na área teológica e tecnológica."
+  favicon = "images/favicon.png"
+  logotipo = "images/logo.png"
+  
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
