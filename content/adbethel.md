@@ -1,7 +1,7 @@
 ---
 title: "Sobre a AD Bethel de Águas Claras"
 date: "2023-06-25"
-tags: ["info", "histórico", "informativo"]
+tags: ["histórico", "informativo"]
 draft: false
 ---
 

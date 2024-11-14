@@ -33,6 +33,7 @@
     {{ .Content }}
 </main>
 
+{{ if .GetTerms "tags" }}
 <ul class="filter-wrapper clearfix">
     <h3>Temas similares </h3>
     {{ with (.GetTerms "tags") }}
@@ -41,6 +42,5 @@
     {{ end }}
     {{ end }}
 </ul>
-
-
+{{ end }}
 {{ end }}

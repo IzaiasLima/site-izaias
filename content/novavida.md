@@ -1,15 +1,15 @@
 ---
 title: "Histórico da Igreja Nova Vida Águas Claras"
 date: "2023-06-25"
-tags: ["info", "histórico", "informativo"]
+tags: ["histórico", "informativo"]
 draft: false
 ---
 
 *Este é apenas um breve resumo da história da Igreja Nova Vida Águas Claras. Para um obter informações mais completas, visite o [site](https://www.inovavida.com.br/nossa-historia) da própria igreja.*
 
-Essa comunidade cristã nasceu como Igreja Evangélica Vida Nova, fundada pelo Pastor Inezilo do Nascimento Cunha, no dia 11 de janeiro de 2004, em uma reunião na residência do próprio pastor, tendo como membros fundadores as seguintes pessoas:
+Essa igreja nasceu como Igreja Evangélica Vida Nova, fundada pelo Pastor Inezilo do Nascimento Cunha, no dia 11 de janeiro de 2004, numa reunião em sua própria residência, tendo os seguintes membros fundadores:
 
-Membros fundadores:
+Diretoria:
 
 - Pastor INEZILO DO NASCIMENTO CUNHA
 
@@ -19,7 +19,7 @@ Membros fundadores:
 
 - Presbítero MARCELO MAGALHÃES SANTANA
 
-E mais:
+Demais membros:
 
 - ADIEL GOMES SILVA
 
@@ -73,4 +73,4 @@ E mais:
 
 - WILMA MIRANDA REGES.
 
-Em 22 de fevereiro de 2009, ocorreu uma cerimônia de unificação, clelbrada pelo Bispo Antonio Joaquim Costa — Bispo Regional da Igreja de Nova Vida em Brasília —, quando a Vida Nova passou a se chamar Igreja de Nova Vida em Águas Claras , vinculada ao Conselho de Igrejas de Nova Vida no Brasil. Dez meses após a unificação, então com 40 anos de ministério, o pastor Inezilo do Nascimento Cunha transferiu a direção da igreja para o pastor Marcelo Santana, seu genro, que há dez anos já vinha auxiliando o pastor Inezilo em seu ministério. 
+No dia 22 de fevereiro de 2009, em cerimônia de unificação presidida pelo bispo Antonio Joaquim Costa (bispo regional da Igreja de Nova Vida em Brasília), a Vida Nova passou a se chamar Igreja de Nova Vida em Águas Claras, vinculada ao Conselho de Igrejas de Nova Vida no Brasil. Dez meses após a unificação, o pastor Inezilo do Nascimento Cunha, então com 40 anos de ministério, transferiu a direção da igreja para o pastor Marcelo Santana, seu genro, que há dez anos já vinha atuando como pastor  auxiliar. 
