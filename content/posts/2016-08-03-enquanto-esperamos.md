@@ -1,15 +1,13 @@
-+++
-title = "Enquanto esperamos..."
-date = "2016-08-03"
-tags = ["prioridades", "confiança", "esperança"]
-banner = "banners/7148951717_9bbf185db3_h-1018x460.jpg"
-+++
+---
+title: "Enquanto esperamos..."
+date: "2016-08-03"
+tags: ["prioridades", "eternidade", "confiança", "esperança"]
+summary: "A noção de tempo é relativa e depende muito da companhia. Não estamos sós, pois Jesus prometeu estar conosco."
+---
 
 Quem já teve que esperar por algo sabe o quanto a espera pode parecer tediosa e frustrante. Na infância uma semana parecia uma eternidade, enquanto aguardávamos a chegada de uma data importante.
 
 A noção de tempo é muito relativa e depende, em grande parte, de quem está em nossa companhia. Não estamos sós. Jesus prometeu: "estou convosco, todos os dias até o final dos tempos".
-
-<!--more-->
 
 Enquanto esperamos, devemos estar conscientes de sua presença ao nosso lado. Isso torna a espera suportável.
 

@@ -74,7 +74,7 @@ h4 {
 }
 
 .custom-navbar .nav li a {
-    color: #999;
+    color: #55acee;
     font-weight: 300;
     font-size: 1.7rem;
     text-transform: uppercase;
@@ -82,7 +82,7 @@ h4 {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #55acee;
+    color: #c9dceb;
 }
 
 .custom-navbar .nav li.active>a {
@@ -212,6 +212,11 @@ h4 {
 /* end home */
 
 /* start posts */
+
+main {
+    padding: 40px 0;
+}
+
 #posts {
     padding-top: 60px;
     padding-bottom: 40px;
@@ -240,9 +245,18 @@ h4 {
     font-size: 17px;
 }
 
+#posts p:has(strong) {
+    padding-top: 12px;
+}
+
 #posts a {
     font-size: 17px;
     font-weight: 500;
+}
+
+#posts a.tags {
+    font-size: 14px;
+    text-transform: uppercase;
 }
 
 #posts .row {
@@ -253,6 +267,8 @@ h4 {
     margin: 0 auto;
     padding-bottom: 80px;
 }
+
+.opc-main-bg tags {}
 
 /* end posts  */
 
