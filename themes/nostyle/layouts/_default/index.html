@@ -137,27 +137,29 @@
     <section id="contact">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-offset-2 col-md-8 col-sm-12">
                     <div class="wow bounceIn">
                         <h2 class="wow bounceIn">Contato</h2>
                         <hr>
                         <h4>fale conosco, queremos conhecer você</h4>
                     </div>
-                    <form action="#" method="post" role="form">
-                        <div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
-                            <input type="text" placeholder="Name" class="form-control">
+
+                    <form id="contact-form">
+                        <!-- <form action="#" method="post" role="form"> -->
+                        <div class="col-md-4 col-sm-12 wow fadeIn" data-wow-delay="0.3s">
+                            <input type="text" placeholder="Name" name="user_name" class="form-control">
                         </div>
-                        <div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
-                            <input type="email" placeholder="Email" class="form-control">
+                        <div class="col-md-8 col-sm-12 wow fadeIn" data-wow-delay="0.3s">
+                            <input type="email" placeholder="Email" name="user_email" class="form-control">
                         </div>
-                        <div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
+                        <!-- <div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
                             <input type="text" placeholder="Subject" class="form-control">
-                        </div>
+                        </div> -->
                         <div class="col-md-12 col-sm-12 wow fadeIn" data-wow-delay="0.9s">
-                            <textarea class="form-control" rows="5" placeholder="Message"></textarea>
+                            <textarea name="message" class="form-control" rows="5" placeholder="Mensagem"></textarea>
                         </div>
                         <div class="col-md-offset-3 col-sm-offset-3 col-sm-6 col-md-6 wow fadeIn" data-wow-delay="0.3s">
-                            <input type="submit" value="Send Message" class="form-control">
+                            <input type="submit" value="Enviar Mensagem" class="form-control">
                         </div>
                     </form>
                 </div>
