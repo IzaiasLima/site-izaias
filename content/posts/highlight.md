@@ -324,7 +324,7 @@ export function food101topK(classProbabilities, k = 5) {
 ## Test for CSS
 ```css
 /*
-Monokai style - ported by Luigi Maselli - http://grigio.org
+Monokai style - ported by Luigi Maselli - https://grigio.org
 */
 .hljs {
   display: block;
