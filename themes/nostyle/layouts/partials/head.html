@@ -22,7 +22,7 @@
   </title>
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ $.Site.Params.favicon | relURL }}" />
-  {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction)) }}
+  <!-- { $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction)) }} -->
 
   {{ range .Site.Params.custom_css -}}
   <link type="text/css" rel="stylesheet" href="{{ . | absURL }}.css">
