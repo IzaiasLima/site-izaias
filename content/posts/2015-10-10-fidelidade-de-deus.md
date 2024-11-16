@@ -3,6 +3,7 @@ title: "A fidelidade de Deus"
 date: "2015-10-10"
 featured: true
 tags: ["fidelidade", "bondade", "divindade"]
+banner: "/banners/galinha.jpg"
 summary: "Deus tem alguma obrigação para comigo? E posso confiar que Ele é poderoso o suficiente para não falhar?"
 ---
 ## Deus é fiel
