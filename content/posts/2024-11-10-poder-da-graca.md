@@ -1,13 +1,13 @@
-+++
-title = "O poder da Graça"
-date = "2024-11-10"
-featured = true
-tags = ["graça", "perdão", "cristianismo", "vida"]
-banner = "/banners/poder-da-graca.jpg"
-summary = "Somos morada de Deus, apesar de nossas limitações. Mas temos consciência de que o valor da casa se deve ao habitante."
-+++
+---
+title: "O poder da Graça"
+date: "2024-11-10"
+featured: true
+tags: ["graça", "perdão", "cristianismo", "vida"]
+banner: "/banners/poder-da-graca.jpg"
+summary: "Somos morada de Deus, apesar de nossas limitações. Mas temos consciência de que o valor da casa se deve ao habitante."
+---
+
 Em certa ocasião, Irmão André, fundador de Portas Abertas, disse que Deus sempre o coloca diante de situações que o desafiam a viver na prática aquilo que prega. Posso discordar de muitas das coisas que Caio Fábio diz, mas em uma coisa estamos de acordo: a igreja transformou a graça de Deus em mero conceito teológico, em vez de incentivar que ela seja vivida e experimentada de forma prática e plena.
-<!--more-->
 
 ***Obs.: As menções ao filme "O Poder da Graça", no texto a seguir, foram feitas com cuidado para não caracterizar spoiller.***
 

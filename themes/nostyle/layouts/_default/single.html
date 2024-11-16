@@ -2,13 +2,13 @@
 
 <h1>{{ .Title }}</h1>
 
+{{ if .Date}}
 <p>
     <time datetime="{{ .Date }}">
         {{ .Date | time.Format site.Params.theme_config.date_format }}
     </time>
 </p>
-
-
+{{ end }}
 
 
 {{ if .Params.toc }}

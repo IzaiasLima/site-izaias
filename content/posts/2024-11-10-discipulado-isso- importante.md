@@ -1,15 +1,14 @@
-+++
-title = "Discipulado, isso é importante?"
-date = "2024-11-05"
-featured = true
-tags = ["discipulado","vida cristã","crescimento", "ide"]
-banner = "/banners/discipulado.jpg"
-caption = "Fazer discípulos é a tarefa mais relevante da igreja."
-summary = "Fazer discípulos é a tarefa mais relevante da igreja, em todos os tempos. E não deve ser confundido com evangelismo."
-+++
+---
+title: "Discipulado, isso é importante?"
+date: "2024-11-05"
+featured: true
+tags: ["discipulado","vida cristã","crescimento", "ide"]
+banner: "/banners/discipulado.jpg"
+caption: "Fazer discípulos é a tarefa mais relevante da igreja."
+summary: "Fazer discípulos é a tarefa mais relevante da igreja, em todos os tempos. E não deve ser confundido com evangelismo."
+---
 
 Confundimos fazer discípulos com fazer prosélitos. O dicionário define prosélito como pessoa que foi atraída e se converteu. O proselitismo, que preferimos chamar de evangelismo, é o passo inicial para levar as pessoas a Cristo, mas deve ser praticado de acordo com os princípios da Palavra de Deus e seguido do discipulado. Discipulado  e evangelismo não podem ser confundidos um com o outro. O discipulado é tão importante que foi a última recomendação de Jesus, antes de subir ao céu.
-<!--more-->
 
 ## Texto bíblico
 

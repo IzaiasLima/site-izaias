@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<div class="col-md-12 text-center wow bounceIn">
+    <h2 class="title tags">{{ .Name }}</h2>
+    <hr>
+    <h4>área privativa de ajuda para formatação de textos do site</h4>
+</div>
+
+{{ range .Site.Pages }}
+{{ if in .Params.category "help" }}
+
+<div class="col-md-offset-4 col-md-4 col-sm-12 text-center">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+</div>
+
+{{ end }}
+{{ end }}
+{{ end }}
