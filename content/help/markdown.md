@@ -2,30 +2,16 @@
 title: "Ajuda com o Markdown"
 category: ["help"]
 draft: true
+toc: true
 ---
 
 # {#top}
 
-## Lista de Tópicos
-- [Paragraphs](#Paragraphs)
-- [Blockquotes](#Blockquotes)
-- [Lists](#Lists)
-- [Horizontal rule](#Horizontal)
-- [Table](#Table)
-- [Code](#Code)
-- [Inline elements](#Inline)
+## Cabeçalhos
 
-***
+De h1 (#) a h6 (######)
 
-# Cabeçalhos {#Headings}
-
-# Heading one
-
-## Heading two
-
-### Heading three ... six
-
-# Detalhes
+## Detalhes
 ### O que é?
 É um padrão HTML que não é suportado nativamente pelo markdown, mas pode ser implementado assim:
 {{< details summary="Mostrar detalhes" >}}
@@ -33,25 +19,26 @@ Aqui fica o texto a ser detalhado.
 {{< /details >}}
 
 
-# Paágrafos {#Paragraphs}
+## Parágrafos
 
 Um parágrafo: Proident fugiat tempor deserunt reprehenderit fugiat tempor deserunt reprehenderit fugiat tempor deserunt reprehenderit ullamco id dolore laborum.
 
 Outro parágrafo: Incididunt commodo nisi velit est est elit et dolore elit exercitation. Enim aliquip magna id ipsum aliquip consectetur ad nulla quis. Incididunt pariatur dolor consectetur cillum enim velit cupidatat laborum quis ex.
 
 
-
-# Citações {#Blockquotes}
+## Citações
 
 Este é um parágrafo normal: Sint ex Lorem mollit laborum dolor amet est ut esse aute.
 
 > Isto é uma citação.
+>
+> Com dois parágrafos.
 
 [[Top]](#top)
 
-# Listas {#Lists}
+## Listas
 
-### Ordenada
+### Ordenadas
 
 1. Longan
 2. Lychee
@@ -62,7 +49,7 @@ Este é um parágrafo normal: Sint ex Lorem mollit laborum dolor amet est ut ess
    - Honeydew
 5. Mulberry
 
-### Desordenada
+### Desordenadas
 
 - Olive
 - Orange
@@ -72,7 +59,7 @@ Este é um parágrafo normal: Sint ex Lorem mollit laborum dolor amet est ut ess
 
 [[Top]](#top)
 
-# Separador horizontal {#Horizontal}
+## Separador horizontal
 
 ***
 Este acima, ou este abaixo, tanto faz.
@@ -83,25 +70,23 @@ Mas se ficar colado no texto de cima transforma o texto em um cabeçalho.
 ---
 
 
-# Tabela {#Table}
+## Tabela
 
-| Heading | Center align | Right align |
-|:------- |:------------:| -----------:|
-| Item 2  | Item 3       | Item 4      |
-| Item 2  | Item 3       | Item 4      |
-| Item 2  | Item 3       | Item 4      |
-| Item 2  | Item 3       | Item 4      |
-| Item 2  | Item 3       | Item 4      |
+| Heading             | Center align   | Right align      |
+|:------------------- |:--------------:| ----------------:|
+| Linha 1, coluna 1   | Lin 1, col 2   | Linha 1, coluna 3|
+| Linha 2, coluna 1   | Lin 2, col 2   | Linha 2, coluna 3|
+| Item 2              | Item 3         | Item 4           |
 
 [[Top]](#top)
 
-# Códigos {#Code}
+## Códigos
 
-## Inline code
+### Inline code
 
 Duis duis est `code in text` velit velit aute labore deserunt.
 
-## Highlighted
+### Highlighted
 
 Disponível em várias linguagens de programação.
 
@@ -137,7 +122,7 @@ def func():
 
 [[Top]](#top)
 
-# Inclusão de elementos _inline_ {#Inline}
+## Elementos inline
 
 Texto **negrito**, texto *italico*, texto _italico **negrito** italico_ e normal.
 
