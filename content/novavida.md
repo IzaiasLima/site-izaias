@@ -1,6 +1,6 @@
 ---
 title: "Histórico da Igreja Nova Vida Águas Claras"
-date: "2023-06-25"
+date: "2024-11-15"
 tags: ["histórico", "informativo"]
 draft: false
 ---

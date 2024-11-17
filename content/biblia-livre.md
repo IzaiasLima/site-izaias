@@ -1,6 +1,6 @@
 ---
 title: "Aplicativo Bíblia Livre para Android"
-date: "2023-06-25"
+date: "2024-11-15"
 draft: false
 ---
 

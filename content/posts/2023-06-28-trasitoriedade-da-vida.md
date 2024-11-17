@@ -4,7 +4,7 @@ date: "2023-06-28"
 featured: true
 tags: ["vida", "tempo", "eternidade", "impacto", "emocional", "sofrimento"]
 banner: "/banners/brevidade.jpg"
-summary: "A saudade dos entes queridos que partiram é quase insuportável. Há esperanças de nos reencontrarmos?"
+summary: "A saudade dos entes queridos que partiram é quase insuportável. Há esperança de nos reencontrarmos?"
 ---
 
 Talvez a morte que mais me abalou, depois da de minha mãe, tenha sido a do pastor Humberto. Nós havíamos servido na mesma igreja, mas ele estava morando em outra cidade quando acidentou-se. Quem tomou conhecimento dos detalhes do acidente reconhece que ele ter sobrevivido foi um milagre. No dia de seu aniversário, ele percebeu que a esposa estava preparando um "aniversário surpresa", então resolveu deixá-la mais à vontade e saiu. Um caminhão fechou sua moto e o acidente aconteceu. 

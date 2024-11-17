@@ -29,11 +29,11 @@ De certa forma, crianças continuam sendo oferecidas em holocausto aos deuses qu
 
 Família continuam sendo sacrificadas em nome do sucesso. Mulheres e homens se revelam cada vez mais dispostos a sacrificarem o próprio corpo no altar da beleza. A chamada tirania da beleza, referindo-se à excessiva busca do corpo perfeito, tem sido objeto de vários estudos científicos, demonstrando que a magnitude do problema extrapola a dimensão espiritual e passa a interferir na dimensão social, da saúde e da psicologia.
 
-Vejamos o que diz um estudo publicado na revista Polêmica, da UERJ: “As recentes, sucessivas e dramáticas mortes de jovens com transtornos alimentares demandam de todos nós uma reflexão mais profunda acerca do que significa a ditadura estética a qual uma parcela significativa de jovens mulheres parece estar submetida. Vale lembrar que, a prevenção destes quadros clínicos é dificultada, sobretudo nos extratos menos favorecidos da população, na medida em que não são entendidos como uma doença, mas como um estilo de vida, socialmente reforçado, como característico das pessoas de sucesso - traduzido muitas vezes no sonho de virar modelo e com isso conseguir: ascensão social, fama, sucesso, visibilidade e dinheiro.”[1]
+Vejamos o que diz um estudo publicado na revista Polêmica, da UERJ: “As recentes, sucessivas e dramáticas mortes de jovens com transtornos alimentares demandam de todos nós uma reflexão mais profunda acerca do que significa a ditadura estética a qual uma parcela significativa de jovens mulheres parece estar submetida. Vale lembrar que, a prevenção destes quadros clínicos é dificultada, sobretudo nos extratos menos favorecidos da população, na medida em que não são entendidos como uma doença, mas como um estilo de vida, socialmente reforçado, como característico das pessoas de sucesso - traduzido muitas vezes no sonho de virar modelo e com isso conseguir: ascensão social, fama, sucesso, visibilidade e dinheiro.”[^1]
 
-E mais: […] “o desejo no interior dessa cultura do consumo que o mercado institui está associado ao ideal cultivado da fabricação de um ser perfeito. Dietas, exercícios físicos intensos e muita disposição para sacrifícios e dores, são requisitos cobrados e estimulados[…]”[2]
+E mais: […] “o desejo no interior dessa cultura do consumo que o mercado institui está associado ao ideal cultivado da fabricação de um ser perfeito. Dietas, exercícios físicos intensos e muita disposição para sacrifícios e dores, são requisitos cobrados e estimulados[…]”[^2]
 
-Até mesmo a busca desenfreada do prazer e da felicidade, a qualquer custo, se torna um tirano na nossa vida. Sobre isso, um artigo de Ed René Kivitz cita dois autores, um deles um monge Krishna: [...] mais do que o dinheiro [a felicidade], é a nova ostentação dos ricos. Eles estão na mídia e exibem seus carros de luxo, sua vida amorosa extraordinária, seu sucesso social, financeiro ou mesmo moral, quando colaboram com instituições beneficentes. A felicidade virou parte da comédia social.[3] É por causa da felicidade que aspirantes espirituais oram, trapaceiros trapaceiam, [...] caridosos entregam-se à caridade, bêbados bebem, ladrões roubam e penitentes se arrependem.[4]
+Até mesmo a busca desenfreada do prazer e da felicidade, a qualquer custo, se torna um tirano na nossa vida. Sobre isso, um artigo de Ed René Kivitz cita dois autores, um deles um monge Krishna: [...] mais do que o dinheiro [a felicidade], é a nova ostentação dos ricos. Eles estão na mídia e exibem seus carros de luxo, sua vida amorosa extraordinária, seu sucesso social, financeiro ou mesmo moral, quando colaboram com instituições beneficentes. A felicidade virou parte da comédia social.[^3] É por causa da felicidade que aspirantes espirituais oram, trapaceiros trapaceiam, [...] caridosos entregam-se à caridade, bêbados bebem, ladrões roubam e penitentes se arrependem.[^4]
 
 ## Exemplos da bondade de Deus
 Diferentemente, o nosso Deus é aquele que devolve os filhos às suas mães – como vimos na ressurreição dos filhos da viúvas de Serepta e de Naim, da filha de Jairo e na ressurreição de Lázaro – e se preocupa em garantir o sustento das viúvas, dos estrangeiros e dos órfãos. Ele instituiu na Lei (Torá) dada por intermédio de Moisés. “Quando no teu campo colheres a tua colheita, e esqueceres um molho no campo, não tornarás a tomá-lo; para o estrangeiro, para o órfão, e para a viúva será; para que o Senhor teu Deus te abençoe em toda a obra das tuas mãos. Quando sacudires a tua oliveira, não voltarás para colher o fruto dos ramos; para o estrangeiro, para o órfão, e para a viúva será. Quando vindimares a tua vinha, não voltarás para rebuscá-la; para o estrangeiro, para o órfão, e para a viúva será. (Dt 24:19-21).”
@@ -45,10 +45,10 @@ Ao contrário das outras divindades, escravizadoras, Deus pede que o nosso sacri
 
 **a) Pessoas que experimentaram a Sua fidelidade**
 
-Moisés: Saberás, pois, que o Senhor teu Deus, Ele é Deus, o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e guardam os seus mandamentos (Dt 7:9).
-Davi: Pois a tua misericórdia se eleva até aos céus, e a tua fidelidade, até às nuvens (Sl 57:10).
-Outros salmistas: Porque o SENHOR é bom, a sua misericórdia dura para sempre, e, de geração em geração, a sua fidelidade (Sl 100:5). Porque mui grande é a sua misericórdia para conosco, e a fidelidade do SENHOR subsiste para sempre (Sl 117:2).
-Jeremias (que sofreu quase tanto quanto Jó): As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas misericórdias não têm fim; Novas são cada manhã; grande é a tua fidelidade (Lm 3:22-23). 
+- Moisés: Saberás, pois, que o Senhor teu Deus, Ele é Deus, o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e guardam os seus mandamentos (Dt 7:9).
+- O salmista Davi: Pois a tua misericórdia se eleva até aos céus, e a tua fidelidade, até às nuvens (Sl 57:10).
+- Outros salmistas: Porque o SENHOR é bom, a sua misericórdia dura para sempre, e, de geração em geração, a sua fidelidade (Sl 100:5). Porque mui grande é a sua misericórdia para conosco, e a fidelidade do SENHOR subsiste para sempre (Sl 117:2).
+- Jeremias (que sofreu quase tanto quanto Jó): As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas misericórdias não têm fim; Novas são cada manhã; grande é a tua fidelidade (Lm 3:22-23). 
 
 **b) O próprio Deus**
 
@@ -61,14 +61,14 @@ Como pai amoroso, Deus promete zelar de cada um de nós e deseja que que a nossa
 
 **De fato, são muitas as promessas de Deus para nós:**
 
-Ele nos guarda (Sl 31:23)
-cuida de nós (1Pe 5:7)
-perdoa nossos pecados (1Jo 1:9)
-nos promete a coroa da vida (Ap 2:10)
-nos promete a vitória contra o inimigo (Ap 17:14)
-nos livra das tramas do diabo e de nossos inimigos (2 Ts 3:3; Sl 54:5)
-nos protege de todo mal (Sl 61:7)
-nos ajuda a suportar os sofrimentos da vida (1 Pe 4:19)
+- Ele nos guarda (Sl 31:23)
+- cuida de nós (1Pe 5:7)
+- perdoa nossos pecados (1Jo 1:9)
+- nos promete a coroa da vida (Ap 2:10)
+- nos promete a vitória contra o inimigo (Ap 17:14)
+- nos livra das tramas do diabo e de nossos inimigos (2 Ts 3:3; Sl 54:5)
+- nos protege de todo mal (Sl 61:7)
+- nos ajuda a suportar os sofrimentos da vida (1 Pe 4:19)
 
 No que isso difere do pensamento original por trás da frase “Deus é fiel”? No tipo de relacionamento que mantemos com Ele. Como antecipamos acima, fidelidade tem a ver com relacionamento profundo, aliança e confiança mútua, como acontece no contexto de um casamento saudável. É inconcebível esperar fidelidade de Deus quando nós mesmos somos infiéis. Quando somos infiéis podemos esperar colher o fruto de nossas próprias escolhas: “Entretanto, porque eu clamei e recusastes; e estendi a minha mão e não houve quem desse atenção, Antes rejeitastes todo o meu conselho, e não quisestes a minha repreensão, Também de minha parte eu me rirei na vossa perdição e zombarei, em vindo o vosso temor. Vindo o vosso temor como a assolação, e vindo a vossa perdição como uma tormenta, sobrevirá a vós aperto e angústia. Então clamarão a mim, mas eu não responderei; de madrugada me buscarão, porém não me acharão. Porquanto odiaram o conhecimento; e não preferiram o temor do Senhor: Não aceitaram o meu conselho, e desprezaram toda a minha repreensão. Portanto comerão do fruto do seu caminho, e fartar-se-ão dos seus próprios conselhos (Pv 1:24-31).”
 
@@ -86,3 +86,10 @@ Nossa atitude deve ser semelhante à do profeta Habacuque. As notícias não era
 
 Portanto, a questão não é o quanto Deus é confiável, mas o quanto somos fiéis a Ele. Quando nossa crença nele se elevar da mera expectativa de sucesso para um sentimento de confiança, baseada no conhecimento de Sua natureza e bondade, e nossa incerteza, fragilmente equilibrada sobre uma presunção do tipo eu mereço, se transformar em certeza, alicerçada na profunda convicção de que somos amados pelo Pai, então entenderemos o que significa: “Deus é fiel”. Nesse caso, o Salmo 91 se tornará realidade em nossas vidas, mesmo que a Bíblia esteja momentaneamente fechada.
 
+
+**Nota: os links das referências não estão mais acessíveis.**
+
+[^1]: Revista Polemica (www.polemica.uerj.br/pol18/oficinas/lipis_4.htm)
+[^2]: Revista Espaço Acadêmico, nr. 72, maio/2007 (www.espacoacademico.com.br/072/72trinca.htm)
+[^3]: Pascal Bruckner, citado por Ed René Kivitz (www.konzept.com.br/artigos-erk/erk10-tirania.htm)
+[^4]: Swami Adiswarananda (monge da Ordem Ramakrishna), citado por Ed René Kivitz (www.konzept.com.br/artigos-erk/erk10-tirania.htm)
