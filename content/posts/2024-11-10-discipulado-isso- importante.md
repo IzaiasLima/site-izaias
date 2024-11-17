@@ -1,6 +1,6 @@
 ---
 title: "Discipulado, isso é importante?"
-date: "2024-11-05"
+date: "2024-11-10"
 featured: true
 tags: ["discipulado","vida cristã","crescimento", "ide"]
 banner: "/banners/discipulado.jpg"

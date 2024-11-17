@@ -1,6 +1,6 @@
 ---
 title: "Enquanto esperamos..."
-date: "2016-08-03"
+date: "2023-08-03"
 tags: ["prioridades", "eternidade", "confiança", "esperança"]
 summary: "A noção de tempo é relativa e depende muito da companhia. Não estamos sós, pois Jesus prometeu estar conosco."
 ---

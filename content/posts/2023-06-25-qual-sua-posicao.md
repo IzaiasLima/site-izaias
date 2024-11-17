@@ -1,6 +1,6 @@
 ---
 title: "Qual é a sua posição?"
-date: "2023-03-05"
+date: "2023-06-25"
 tags: ["paternidade", "privilégios", "filho", "pródigo", "sofrimento", "justo", "confiança"]
 draft: false
 ---

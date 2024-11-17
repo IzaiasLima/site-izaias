@@ -1,6 +1,6 @@
 ---
 title: "Tesouro em vasos de barro"
-date: "2023-06-25"
+date: "2023-10-10"
 tags: ["reflexão", "relacionamento", "valores"]
 draft: false
 ---

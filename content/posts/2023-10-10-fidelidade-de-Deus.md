@@ -1,6 +1,6 @@
 ---
 title: "A fidelidade de Deus"
-date: "2015-10-10"
+date: "2023-10-10"
 featured: true
 tags: ["fidelidade", "bondade", "divindade"]
 banner: "/banners/galinha.jpg"

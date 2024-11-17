@@ -1,6 +1,6 @@
 ---
 title: "A Brevidade da Vida"
-date: "2016-06-28"
+date: "2023-06-28"
 featured: true
 tags: ["vida", "tempo", "eternidade", "impacto", "emocional"]
 banner: "/banners/brevidade.jpg"
