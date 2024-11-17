@@ -30,6 +30,11 @@ enableInlineShortcodes = true
     weight = 15
 
 [[menu.main]]
+    name = "Sermões"
+    url = "/outlines/"
+    weight = 16
+
+[[menu.main]]
     identifier = "about"
     name = "Sobre"
     url = "/#about"

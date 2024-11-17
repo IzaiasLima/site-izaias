@@ -36,8 +36,7 @@ Estamos acostumados a buscar a graça de Deus, pedir por ela todos os dias e, qu
 
 Não foi fácil para o protagonista do filme reconhecer que o milagre, tão desejado, estava em suas mãos. Seria bem mais fácil colocar a igreja para orar, pedindo o milagre. Claro que Deus faz milagres! Mas, provavelmente, o maior milagre que Ele esteja querendo realizar é o de nos moldar à sua semelhança, a ponto de nos tornarmos agentes de sua graça. Quando o milagre pode ser realizado por nós, por nossas atitudes, Deus espera que o realizemos. Tiago diz que, se podemos alimentar o faminto mas nos limitamos a orar por ele, estamos na contramão da graça.
 
-> E algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e nào lhes derdes as coisas necessárias para o corpo, que proveito virá daí? Assim também a fé, se não tiver as obras, é morta em si mesma.  
-Tiago 2.16-17
+> E algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e nào lhes derdes as coisas necessárias para o corpo, que proveito virá daí? Assim também a fé, se não tiver as obras, é morta em si mesma (Tiago 2:16-17).
 
 Os filhos de Deus, alcançados pela Sua graça, são comparados a ribeiros que fluem abundantemente, não a cisternas que retém as águas apenas para si. A parábola do credor incompassivo termina com uma severa advertência. Não há misericórdia para aqueles que não exercitam a misericórdia na mesma medida em que a receberam.
 

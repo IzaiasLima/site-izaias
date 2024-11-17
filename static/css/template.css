@@ -74,6 +74,7 @@ h4 {
 }
 
 .custom-navbar .nav li a {
+    /* color: #337ab7; */
     color: #55acee;
     font-weight: 300;
     font-size: 1.7rem;
@@ -111,15 +112,9 @@ h4 {
 
     .custom-navbar.top-nav-collapse {
         padding: 5px 0;
-        box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
+        box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.1);
         background: #fff;
     }
-
-    /* .custom-navbar .navbar-brand img {
-        margin-top: -7px;
-        margin-left: 0;
-        width: 6rem;
-    } */
 }
 
 /* end navigation */
@@ -268,6 +263,10 @@ main {
     padding-bottom: 80px;
 }
 
+blockquote {
+    border-left: 5px solid #55acee;
+}
+
 .opc-main-bg tags {}
 
 /* end posts  */
@@ -297,6 +296,14 @@ main {
     max-width: 160px;
     margin-left: -25px;
     padding: 5px;
+}
+
+@media screen and (max-width:980px) {
+    .media-card-mini {
+        max-width: 95vw;
+        margin-left: -15px;
+        padding: 15px 0;
+    }
 }
 
 /* start featured */
