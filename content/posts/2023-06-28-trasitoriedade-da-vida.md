@@ -2,7 +2,7 @@
 title: "A Brevidade da Vida"
 date: "2023-06-28"
 featured: true
-tags: ["vida", "tempo", "eternidade", "impacto", "emocional"]
+tags: ["vida", "tempo", "eternidade", "impacto", "emocional", "sofrimento"]
 banner: "/banners/brevidade.jpg"
 summary: "A saudade dos entes queridos que partiram é quase insuportável. Há esperanças de nos reencontrarmos?"
 ---
