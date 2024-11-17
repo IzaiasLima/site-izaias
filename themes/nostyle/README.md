@@ -1,5 +1,7 @@
 # no style, please!
 
+>NOTE: We used this theme as inspiration, but we made significant changes to it, so the following information is not entirely applicable.
+
 <img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [riggraz/no-style-please](https://github.com/riggraz/no-style-please/).
 
 <img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/images/screenshot-both.png" />
