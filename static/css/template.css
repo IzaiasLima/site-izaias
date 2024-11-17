@@ -68,16 +68,15 @@ h4 {
 }
 
 .custom-navbar .navbar-brand img {
-    margin-top: -7px;
+    margin-top: -11px;
     margin-left: 0;
-    width: 6rem;
+    width: 6.5rem;
 }
 
 .custom-navbar .nav li a {
-    /* color: #337ab7; */
     color: #55acee;
     font-weight: 300;
-    font-size: 1.7rem;
+    font-size: 1.3rem;
     text-transform: uppercase;
 }
 
@@ -101,7 +100,7 @@ h4 {
     border-color: transparent;
 }
 
-@media(min-width:768px) {
+@media(min-width:980px) {
     .custom-navbar {
         padding: 20px 0;
         border-bottom: 0;
@@ -114,6 +113,10 @@ h4 {
         padding: 5px 0;
         box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.1);
         background: #fff;
+    }
+
+    .custom-navbar .nav li a {
+        font-size: 1.7rem;
     }
 }
 
@@ -210,6 +213,16 @@ h4 {
 
 main {
     padding: 40px 0;
+}
+
+.list ul {
+    margin-left: -20px;
+    list-style: none;
+}
+
+.list li {
+    list-style-type: none;
+
 }
 
 #posts {
