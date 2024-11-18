@@ -293,6 +293,10 @@ blockquote {
     padding: 7px;
 }
 
+.media-card h2 {
+    text-align: center !important;
+}
+
 .media-card h3 {
     color: #55acee;
     font-size: 20px;
