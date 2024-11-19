@@ -27,10 +27,19 @@
     {{ if .Params.banner }}
     <div class="col-md-5 col-sm-12 wow fadeInUp" data-wow-delay="0.6s">
         <div class="media-card">
-            <img src="{{ .Params.banner }}" class="img-responsive" alt="escrevendo img">
+            <img src="{{ .Params.banner }}" class="img-responsive" alt="imagem ilustrativa">
+
+            {{ if .Params.copyright }}
+            <div id="copyright" class="justify-content-end">
+                <a href="{{ .Params.copyright.link }}" target="_blank">
+                    <span class="fa fa-camera"></span>
+                    {{ .Params.copyright.author }}
+                </a>
+            </div>
+            {{ end }}
 
             {{ if .Params.caption }}
-            <p>{{ .Params.caption }}</p>
+            <p class="caption">{{ .Params.caption }}</p>
             {{ end }}
         </div>
     </div>

@@ -4,6 +4,9 @@ date: "2023-06-28"
 featured: true
 tags: ["vida", "tempo", "eternidade", "impacto", "emocional", "sofrimento"]
 banner: "/banners/brevidade.jpg"
+copyright:
+    author: "Freepik"
+    link: "freepik.com"
 summary: "A saudade dos entes queridos que partiram é quase insuportável. Há esperança de nos reencontrarmos?"
 ---
 
