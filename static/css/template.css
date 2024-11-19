@@ -9,8 +9,12 @@ body {
     background: #f9f9f9;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     overflow-x: hidden;
+}
+
+pre {
+    font-size: 16px;
 }
 
 hr {
@@ -250,7 +254,7 @@ main {
 }
 
 #posts p {
-    font-size: 17px;
+    font-size: 18px;
 }
 
 #posts p:has(strong) {
@@ -261,6 +265,11 @@ main {
     font-size: 17px;
     font-weight: 500;
 }
+
+#posts sup a {
+    font-size: unset;
+}
+
 
 #posts a.tags {
     font-size: 14px;
