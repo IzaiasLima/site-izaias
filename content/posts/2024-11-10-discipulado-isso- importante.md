@@ -4,9 +4,6 @@ date: "2024-11-10"
 featured: true
 tags: ["discipulado","vida cristã","crescimento", "ide"]
 banner: "/banners/discipulado.jpg"
-copyright:
-    author: "Freepik"
-    link: "freepik.com"
 caption: "Fazer discípulos é a tarefa mais relevante da igreja em todas as épocas."
 summary: "Fazer discípulos é a tarefa mais relevante da igreja, em todos os tempos. E não deve ser confundido com evangelismo."
 ---

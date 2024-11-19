@@ -4,9 +4,6 @@ date: "2024-11-10"
 featured: true
 tags: ["graça", "perdão", "cristianismo", "vida"]
 banner: "/banners/poder-da-graca.jpg"
-copyright:
-    author: "Freepik"
-    link: "freepik.com"
 summary: "Somos morada de Deus, apesar de nossas limitações. Mas temos consciência de que o valor da casa se deve ao habitante."
 ---
 

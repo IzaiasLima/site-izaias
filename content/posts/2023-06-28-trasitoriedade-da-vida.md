@@ -4,15 +4,14 @@ date: "2023-06-28"
 featured: true
 tags: ["vida", "tempo", "eternidade", "impacto", "emocional", "sofrimento"]
 banner: "/banners/brevidade.jpg"
-copyright:
-    author: "Freepik"
-    link: "freepik.com"
 summary: "A saudade dos entes queridos que partiram é quase insuportável. Há esperança de nos reencontrarmos?"
 ---
 
-Talvez a morte que mais me abalou, depois da de minha mãe, tenha sido a do pastor Humberto. Nós havíamos servido na mesma igreja, mas ele estava morando em outra cidade quando acidentou-se. Quem tomou conhecimento dos detalhes do acidente reconhece que ele ter sobrevivido foi um milagre. No dia de seu aniversário, ele percebeu que a esposa estava preparando um "aniversário surpresa", então resolveu deixá-la mais à vontade e saiu. Um caminhão fechou sua moto e o acidente aconteceu. 
+Talvez a morte que mais me abalou, depois da de minha mãe, tenha sido a do pastor Humberto. Nós havíamos servido na mesma igreja, mas ele estava morando em outra cidade quando acidentou-se. Quem tomou conhecimento dos detalhes do acidente reconhece que ele ter sobrevivido foi um milagre.
 
-Algumas escoriações, nada demais, foi o diagnóstico inicial. Depois, constatou-se a necessidade de uma cirurgia no joelho. Veio para Brasília. Sua irmã, com quem tinha rompido relações havia algum tempo, fez questão de hospedá-lo e cuidar de sua recuperação. Ter sobrevivido ao acidente pareceu-me um milagre necessário. Ele precisava de outro milagre: reconciliar-se com sua irmã. 
+No dia de seu aniversário, ele percebeu que a esposa estava preparando um "aniversário surpresa", então resolveu deixá-la mais à vontade e saiu. Um caminhão fechou sua moto e o acidente aconteceu. 
+
+Algumas escoriações, nada demais, foi o diagnóstico inicial. Depois, constatou-se a necessidade de uma cirurgia no joelho. Foi transferido para Brasília. Sua irmã, com quem tinha rompido relações havia algum tempo, fez questão de hospedá-lo e cuidar de sua recuperação. Ter sobrevivido ao acidente pareceu-me um milagre necessário. Ele precisava de outro milagre: reconciliar-se com sua irmã. 
 
 Por um mês inteiro, não consegui visitá-lo. Numa segunda-feira levei a família ao cinema, esperando encontrar as salas menos cheias. A sessão estava esgotada. Voltamos meio frustrados e, na nossa volta, passamos perto do endereço. Foi a nossa chance de visitá-lo. Ouvimos o seu relato, nos alegramos com a reconciliação, festejamos sua recuperação e assistimos no seu celular os vídeos de sua garotinha, com um ano de idade, que ele fez questão de mostrar. No dia seguinte, um coágulo se desprendeu da operação no joelho e causou uma embolia pulmonar. Chegou no hospital já em coma e morreu dias depois.
 

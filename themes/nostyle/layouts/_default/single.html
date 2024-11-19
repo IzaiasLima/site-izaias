@@ -29,20 +29,21 @@
         <div class="media-card">
             <img src="{{ .Params.banner }}" class="img-responsive" alt="imagem ilustrativa">
 
-            {{ if .Params.copyright }}
-            <div id="copyright" class="justify-content-end">
-                <a href="{{ .Params.copyright.link }}" target="_blank">
-                    <span class="fa fa-camera"></span>
-                    {{ .Params.copyright.author }}
-                </a>
-            </div>
-            {{ end }}
-
             {{ if .Params.caption }}
             <p class="caption">{{ .Params.caption }}</p>
             {{ end }}
         </div>
+
+        {{ if .Params.copyright }}
+        <div id="copyright" class="justify-content-end">
+            <a href="{{ .Params.copyright }}" target="_blank">
+                <span class="fa fa-camera"></span>
+                {{ .Params.copyright }}
+            </a>
+        </div>
+        {{ end }}
     </div>
+
     {{ end }}
 
     {{ .Content }}
@@ -53,7 +54,7 @@
     <h3>Temas similares </h3>
     <ul class="filter-wrapper clearfix">
         {{ range . }}
-        <li><a class="opc-main-bg tags" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        <li><a class="tags" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
         {{ end }}
     </ul>
     {{ end }}
