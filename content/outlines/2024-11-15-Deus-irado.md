@@ -19,7 +19,7 @@ No entanto, Jesus, o Deus feito homem, não poderia possuir um caráter diferent
 
 **Julgamento e justiça**
 
-É necessário enfatizar, porem, que a doutrina do amor de Deus não anula, nem considera menos importante, a doutrina da justiça de Deus, como ensinam algumas seitas. Assim, vemos Deus julgando no AT, como também vemos Jesus absolvendo pessoas, mas também condenando atitudes de outras no NT.
+É necessário enfatizar, porem, que a doutrina do amor de Deus não anula, nem considera menos importante, a doutrina da justiça de Deus, como ensinam algumas seitas. Assim, vemos Deus julgando pessoas no AT, mas também encontraremos Jesus condenando veementemente outras no NT, não apenas absolvendo e perdoando pecadores. 
 
 **O Pai é compassivo**
 
