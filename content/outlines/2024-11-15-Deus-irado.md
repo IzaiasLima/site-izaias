@@ -9,11 +9,13 @@ tags: ["graça", "pecado", "misericórdia", "liberdade", "fidelidade", "caráter
 
 **Um Deus bipolar**
 
-Críticos do cristianismo alegam que a Bíblia foi produzida por uma sociedade patriarcal, na qual se manifesta a figura da mãe terna, compassiva e submissa em contraste com a figura do pai durão e inflexível.
+Críticos do cristianismo alegam que a Bíblia foi produzida por uma sociedade patriarcal, na qual está presente a figura da mãe terna, compassiva e submissa em contraste com a figura do pai exigente, inflexível e dominador. Essa sociedade teria criado o deus apresentado no Antigo Testamento (AT). Este seria diferente do deus (Jesus) criado pelo Novo Testamento (NT), pois a ideia de Deus teria evoluído juntamento com a humanidade. A sociedade greco-romana teria criado um deus diferente do deus hebreu. 
 
-Isso leva ao desenvolvimento uma visão distorcida de Deus e a enxergar uma dicotomia que não existe na Bíblia. A falta de conhecimento bíblico tem levado as pessoas a criarem uma imagem distorcida do Deus Pai, revelado no Antigo Testamento (AT), como sendo um ser irado e pronto para julgar e executar a sentença. Jesus, o Deus revelado no Novo Testamento (NT), ao contrario, seria bondoso e tolerante.
+Isso leva ao desenvolvimento uma visão distorcida do Deus verdadeiramente revelado pelas Escrituras, induzindo as pessoas a enxergarem uma dicotomia que não existe na Bíblia. Além disso, leva tenta nos fazer crer que o homem criou Deus e a Bíblia deu Deus à humanidade, quando é justamente o contrário: Deus criou o homem e Deus nos deu a Bíblia, a Sua Palavra.
 
-No entanto, Jesus, o Deus feito homem, não poderia possuir um caráter diferente do caráter da pessoa que Ele veio revelar.
+A falta de conhecimento bíblico tem levado as pessoas a criarem uma imagem distorcida do Deus Pai, revelado no Antigo Testamento, como sendo um ser irado e pronto para julgar e executar a sentença. Enquanto Jesus, o Deus revelado no Novo Testamento, ao contrario, seria uma pessoa bondosa e tolerante.
+
+No entanto, Jesus, o Deus feito homem, não poderia possuir um caráter diferente do caráter da pessoa a quem Ele veio revelar.
 
 **Julgamento e justiça**
 

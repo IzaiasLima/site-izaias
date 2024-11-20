@@ -1,5 +1,5 @@
 ---
-title: "Cálculo do Digito Verificador"
+title: "Cálculo do Digito Verificador em Python"
 date: "2024-11-18"
 category: [articles]
 tags: ["", "", ""]
@@ -81,7 +81,7 @@ Experimente isso no prompt do Python:
 
 ```
 
-A saída do último **print** serão pares de valores, associando cada posição _i_ do enumerador com cada um dos dígitos de **nr**. São estes valores que usaremos para gerar uma nova lista, multiplicando esses fatores.
+A saída do último **print** serão pares de valores, associando cada posição **_i_** do enumerador com cada um dos dígitos de **nr**. São estes valores que usaremos para gerar uma nova lista, multiplicando esses fatores, como pede o algorítimo do Módulo 11.
 
 É isso que faz o trecho de código a seguir: ```[i*int(x) for i, x in enumerate(nr.rjust(10,'0'))]```.
 
@@ -96,7 +96,9 @@ O resultado obtido é uma nova lista com a multiplicação dos fatores, como esp
 
 Uma observação importante quando se lida com iteráveis no Python é que não podemos iterar mais de uma vez sobre eles, por isso, nos exemplos que dei usando o prompt, tive que recriar a variável **e** que continha o _enumerator_.
 
-Seguindo o algorítimo do Módulo 11, somaremos, agora, os valores da lista obtida pela multiplicação realizada no processo anterior: ```sum([...])``` e, a seguir, pegamos o resto[^4] da divisão por 11:  ```d = sum(...) % 11```. O Python usa o símbolo de percentual para essa operação, que retornará um número variando de 0 a 10, o dígito verificador do valor **nr** originalmente fornecido.
+Seguindo o algorítimo do Módulo 11, somaremos, agora, os valores da lista obtida pela multiplicação realizada no processo anterior: ```sum([...])``` e, a seguir, pegamos o resto[^4] da divisão por 11:  ```d = sum(...) % 11```. O Python usa o símbolo de percentual para fazer essa operação.
+
+O valor de **_d_** será um número variando de 0 a 10, que nosso retorno ajustará para o intervalo de 0 a 9. No exemplo dado (1234), retornará 3, o dígito verificador que estamos procurando.
 
 
 [^1]: Dígito Verificador: [Wikipédia](https://pt.wikipedia.org/wiki/D%C3%ADgito_verificador).

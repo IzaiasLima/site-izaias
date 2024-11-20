@@ -8,7 +8,11 @@ copyright: "flickr.com"
 summary: "Deus tem alguma obrigação para comigo? E posso confiar que Ele é poderoso o suficiente para não falhar?"
 ---
 
-Deus é fiel! Essa frase se tornou tão corriqueira que perdeu sua força de expressão. Temo que seu significado esteja tão diluído, a ponto de não sabermos mais o que ela significa. A ideia que essa frase passa, pelo menos nos contextos onde a tenho lido e ouvido com frequência, é a de que Deus tem uma obrigação para comigo e é poderoso o suficiente para não fazer feio. Espera-se que Ele seja capaz de resolver os meus problemas e me tirar das enrascadas, inclusive daquelas em que eu me meti por desconhecer ou desobedecer a Sua Palavra. O que essa frase significa, realmente? Em que sentido Deus é fiel? E, se Deus é fiel, até que ponto posso confiar nele? Sua fidelidade tem algum sentido prático para mim?
+Deus é fiel! Essa frase se tornou tão corriqueira que perdeu sua força de expressão. Temo que seu significado esteja tão diluído, a ponto de não sabermos mais o que ela significa.
+
+A ideia que essa frase passa, pelo menos nos contextos onde a tenho lido e ouvido com frequência, é a de que Deus tem uma obrigação para comigo e é poderoso o suficiente para não fazer feio. Espera-se que Ele seja capaz de resolver os meus problemas e me tirar das enrascadas, inclusive daquelas em que eu me meti por desconhecer ou desobedecer a Sua Palavra.
+
+O que essa frase significa, realmente? Em que sentido Deus é fiel? E, se Deus é fiel, até que ponto posso confiar nele? Sua fidelidade tem algum sentido prático para mim?
 
 ## Divindades pagãs
 
