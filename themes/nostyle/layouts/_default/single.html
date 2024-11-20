@@ -2,13 +2,6 @@
 
 <h1>{{ .Title }}</h1>
 
-{{ if in .Params.category "outlines" }}
-<p>
-    <i>Este texto é apenas um esboço de sermão. Você pode utilizá-lo e adapta-lo sem restrições. Nem sempre fornecemos
-        respostas, apenas uma trilha do que será desenvolvido por você com a ajuda do Espírito Santo.</i>
-</p>
-{{ end }}
-
 {{ if .Date}}
 <p>
     <time datetime="{{ .Date }}">

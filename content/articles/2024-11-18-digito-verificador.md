@@ -2,7 +2,7 @@
 title: "Cálculo do Digito Verificador em Python"
 date: "2024-11-18"
 category: [articles]
-tags: ["", "", ""]
+tags: ["algorítimo", "listas", "python"]
 ---
 
 Nos anos 80s, 90s a informatização ainda era embrionária. Para abrir uma conta, os funcionários recorriam a uma tabela fornecida pela central de processamento que já vinha com o dígito verificador calculado. Por exemplo, o último dígito **3** na conta **1234-3** é o dígito verificador (DV). Existe também DV para CPF e CNPJ. Nestes documentos, os dois últimos algarismos é o dígito verificador.
