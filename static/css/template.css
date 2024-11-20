@@ -366,16 +366,9 @@ blockquote {
 }
 
 #featured .row {
+    min-height: 200px;
     padding: 7px;
-    padding-bottom: 40px;
-}
-
-#featured .media .fa {
-    color: #55acee;
-    font-size: 60px;
-    margin-right: 20px;
-    width: 65px;
-    height: 65px;
+    padding-bottom: 10px;
 }
 
 #featured .media-heading {

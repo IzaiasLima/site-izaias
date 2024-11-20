@@ -75,8 +75,8 @@
                 <div class="col-md-6 col-sm-6 wow fadeInLeft templatemo-about-left" data-wow-delay="0.3s">
                     <h3 class="about-title media-heading">Formação e experiência</h3>
                     <p>
-                        {{ $aboutContent := readFile "layouts/about.md" }}
-                        {{ $aboutContent | markdownify }}
+                        {{ $file := readFile "data/info.txt" }}
+                        {{ $file | markdownify }}
                     </p>
                 </div>
 

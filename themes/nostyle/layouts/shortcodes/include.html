@@ -1,0 +1,4 @@
+{{ $file := .Get 0 }}
+{{ if strings.HasSuffix $file ".txt" }}
+{{ $file | readFile | markdownify }}
+{{ end }}

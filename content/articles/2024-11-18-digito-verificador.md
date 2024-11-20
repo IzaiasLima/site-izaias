@@ -1,18 +1,20 @@
 ---
 title: "Cálculo do Digito Verificador em Python"
-date: "2024-11-18"
+date: "2024-11-08"
 category: [articles]
+featured: true
+banner: "/banners/dv.png"
+summary: "Quem já viu o cálculo do DV em outra linguagem, vai se surpreender com a beleza da solução em Python."
 tags: ["algorítimo", "listas", "python"]
 ---
 
-Nos anos 80s, 90s a informatização ainda era embrionária. Para abrir uma conta, os funcionários recorriam a uma tabela fornecida pela central de processamento que já vinha com o dígito verificador calculado. Por exemplo, o último dígito **3** na conta **1234-3** é o dígito verificador (DV). Existe também DV para CPF e CNPJ. Nestes documentos, os dois últimos algarismos é o dígito verificador.
+Segundo a Wikipédia, dígito verificador ou algarismo de controle é um mecanismo de autenticação utilizado para verificar a validade e a autenticidade de um valor numérico, evitando dessa forma fraudes ou erros de transmissão ou digitação. Consiste em um ou mais algarismos acrescentados ao valor original e calculados a partir deste através de um determinado algoritmo.[^1]
 
-A Wikipédia define o DV da seguinte forma:
-> Dígito verificador ou algarismo de controle é um mecanismo de autenticação utilizado para verificar a validade e a autenticidade de um valor numérico, evitando dessa forma fraudes ou erros de transmissão ou digitação. Consiste em um ou mais algarismos acrescentados ao valor original e calculados a partir deste através de um determinado algoritmo.[^1]
+Nos anos 80s, 90s a informatização ainda era embrionária. Para abrir uma conta, os funcionários recorriam a uma tabela fornecida pela central de processamento que já vinha com o dígito verificador calculado. Por exemplo, o último dígito **3** na conta **1234-3** é o dígito verificador (DV). Existe também DV para CPF e CNPJ. Nestes documentos, os dois últimos algarismos é o dígito verificador.
 
 No Brasil, os padrões mais usados são o Módulo 11 e o Módulo 10, cujos algorítimos são facilmente encontrados numa busca rápida na Web, por isso não vou reproduzí-los aqui. Se tiver curiosidade, procure também exemplos de rotinas que implementem o cálculo em alguma linguagem de programação, como o Java, por exemplo.
 
-Se você já viu ou já escreveu uma solução para o algorítimo Módulo 11 em alguma outra linguagem, vai se surpreender com a simplicidade da solução usando _list comprehension_[^2] em Python:
+Se você já viu ou já escreveu uma solução para o algorítimo Módulo 11 em qualquer outra linguagem, vai se surpreender com a simplicidade da solução usando _list comprehension_[^2] em Python:
 
 ```python
 def dv(nr):
