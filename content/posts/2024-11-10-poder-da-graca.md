@@ -3,7 +3,7 @@ title: "O poder da Graça"
 date: "2024-11-10"
 featured: false
 tags: ["graça", "perdão", "cristianismo", "vida"]
-banner: "/banners/poder-da-graca.jpg"
+banner: "poder-da-graca.jpg"
 summary: "Somos morada de Deus, apesar de nossas limitações. Mas temos consciência de que o valor da casa se deve ao habitante."
 ---
 

@@ -3,12 +3,12 @@ title: "Cálculo do Digito Verificador em Python"
 date: "2024-11-08"
 category: [articles]
 featured: true
-banner: "/banners/dv.png"
+banner: "dv.png"
 summary: "Quem já viu o cálculo do DV em outra linguagem, vai se surpreender com a beleza da solução em Python."
 tags: ["algorítimo", "listas", "python"]
 ---
 
-Segundo a Wikipédia, dígito verificador ou algarismo de controle é um mecanismo de autenticação utilizado para verificar a validade e a autenticidade de um valor numérico, evitando dessa forma fraudes ou erros de transmissão ou digitação. Consiste em um ou mais algarismos acrescentados ao valor original e calculados a partir deste através de um determinado algoritmo.[^1]
+Segundo a Wikipédia, "dígito verificador ou algarismo de controle é um mecanismo de autenticação utilizado para verificar a validade e a autenticidade de um valor numérico, evitando dessa forma fraudes ou erros de transmissão ou digitação. Consiste em um ou mais algarismos acrescentados ao valor original e calculados a partir deste através de um determinado algoritmo".[^1]
 
 Nos anos 80s, 90s a informatização ainda era embrionária. Para abrir uma conta, os funcionários recorriam a uma tabela fornecida pela central de processamento que já vinha com o dígito verificador calculado. Por exemplo, o último dígito **3** na conta **1234-3** é o dígito verificador (DV). Existe também DV para CPF e CNPJ. Nestes documentos, os dois últimos algarismos é o dígito verificador.
 

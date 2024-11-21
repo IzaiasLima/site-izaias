@@ -20,7 +20,7 @@
     {{ if .Params.banner }}
     <div class="col-md-5 col-sm-12 wow fadeInUp" data-wow-delay="0.6s">
         <div class="media-card">
-            <img src="{{ .Params.banner }}" class="img-responsive" alt="imagem ilustrativa">
+            <img src="/banners/{{ .Params.banner }}" class="img-responsive" alt="imagem ilustrativa">
 
             {{ if .Params.caption }}
             <p class="caption">{{ .Params.caption }}</p>
@@ -29,10 +29,14 @@
 
         {{ if .Params.copyright }}
         <div id="copyright" class="justify-content-end">
-            <a href="{{ .Params.copyright }}" target="_blank">
+            <p>
                 <span class="fa fa-camera"></span>
-                {{ .Params.copyright }}
-            </a>
+                {{ .Params.copyright | markdownify }}
+            </p>
+            <!-- <a href="{ .Params.copyright }}" target="_blank">
+                <span class="fa fa-camera"></span>
+                { .Params.copyright }}
+            </a> -->
         </div>
         {{ end }}
     </div>
