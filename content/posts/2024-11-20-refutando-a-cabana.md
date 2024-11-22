@@ -28,7 +28,7 @@ A seguir a lista das heresias levantadas pelo referido teólogo:
 
 ## 4 – Estruturas hierárquicas, sejam na igreja, sejam no governo, são ruins
 
-**Refutação:** Paul Young tinha um relacionamento conturbado com as instituições religiosas e lidava mal com qualquer figura de autoridades, em geral. Isso acabou influenciando os conceitos defendidos em seu livro. A verdade é que nosso Deus é uma Pessoa que ama a ordem. Deus definiu regras estruturais para a Sua Igreja, incluindo como os dons devem ser utilizados e quais as qualificações necessárias para os líderes (Jó 25:2-3; 1 Co 12; 1 Co 14; 1 Tm 3).
+**Refutação:** Paul Young tinha um relacionamento conturbado com as instituições religiosas e lidava mal com qualquer figura de autoridade, em geral. Isso acabou influenciando os conceitos defendidos em seu livro. A verdade é que nosso Deus é uma Pessoa que ama a ordem. Deus definiu regras estruturais para a Sua Igreja, incluindo como os dons devem ser utilizados e quais as qualificações necessárias para os líderes (Jó 25:2-3; 1 Co 12; 1 Co 14; 1 Tm 3).
 
 ## 5 – Deus nunca vai julgar as pessoas pelos seus pecados
 
@@ -36,11 +36,11 @@ A seguir a lista das heresias levantadas pelo referido teólogo:
 
 ## 6 – Não existe hierarquia na Trindade, só um circulo de unidade
 
-**Refutação:** A Bíblia mostra que existe uma hierarquia (que a Teologia denomina _Economia da Trindade_), embora isso não signifique que uma Pessoa é maior ou melhor que outra. Jesus disse que Se submete à vontade do Pai e também disse que enviaria o Espírito Santo. Paulo, escrevendo aos Coríntios, diz que, no final o Filho entregará o Reino ao Pai, quando tiver vencido todos os inimigos de Deus. (Jo 4:34; 6:44; 14:26; 15:26; 1 Co 15:24).
+**Refutação:** A Bíblia mostra que existe uma hierarquia (que a Teologia denomina _Economia da Trindade_), embora isso não signifique que uma Pessoa é maior ou melhor que outra. Jesus disse que Se submete à vontade do Pai e também disse que enviaria o Espírito Santo. Escrevendo aos Coríntios, o apóstolo Paulo afirma que, no final, o Filho entregará o Reino ao Pai, quando tiver vencido todos os inimigos de Deus. (Jo 4:34; 6:44; 14:26; 15:26; 1 Co 15:24).
 
 ## 7 – Deus se submete aos desejos e escolhas humanas
 
-**Refutação:** Deus é soberano e nós os Seus servos, criados para fazer a Sua vontade. O próprio Senhor Jesus se submeteu à vontade do Pai. Que dirá Seus servos! (Is 46:10; Mt 7:21).
+**Refutação:** Deus é soberano e nós somos os Seus servos, criados para fazer a Sua vontade. O próprio Senhor Jesus se submeteu à vontade do Pai. Que dirá seus servos! (Is 46:10; Mt 7:21).
 
 ## 8 – Justiça nunca vai acontecer, por causa do amor
 
@@ -48,7 +48,7 @@ A seguir a lista das heresias levantadas pelo referido teólogo:
 
 ## 9 – Não existe julgamento eterno ou tormento no inferno
 
-**Refutação:** Foi o próprio Senhor Jesus quem descreveu com detalhes os horrores do inferno. A Palavra de Deus nega veementemente a “salvação universal”, ensinando que aquele que não crer em Jesus já está condenado, porque não creu no nome único Filho de Deus (Lc 12:5; 16:23; Jo 3:18).
+**Refutação:** Foi o próprio Senhor Jesus quem descreveu com detalhes os horrores do inferno. A Palavra de Deus nega veementemente a “salvação universal”, ensinando que aquele que não crer em Jesus já está condenado, porque não creu no nome do único Filho de Deus (Lc 12:5; 16:23; Jo 3:18).
 
 ## 10 – Jesus está com todas as pessoas em suas jornadas para Deus, não importa que caminho elas peguem para chegar a Ele
 
@@ -64,7 +64,9 @@ A seguir a lista das heresias levantadas pelo referido teólogo:
 
 ## 13 – A Bíblia não é verdadeira porque reduz Deus ao papel
 
-**Refutação:** A Bíblia foi inspirada por Deus e é o registro fiel, feito sob a orientação do Espírito Santo, da revelação de Deus ao homem. O próprio Jesus citou o Antigo Testamento diversas vezes e validou, antecipadamente, o Novo Testamento. (Lc 24:44; Jo 17:20; Hb 1:1-2; Ap 22:18-19).
+**Refutação:** É evidente em todo o conteúdo da obra um esforço evidente em desacreditar a Bíblia, a Igreja e as Instituições. Ao contrário do que Paul Young tenta nos convencer, a Bíblia foi inspirada por Deus e é o registro fiel da revelação de Deus ao homem, feito sob a supervisão do Espírito Santo. O próprio Senhor Jesus citou o Antigo Testamento diversas vezes, ratificando-o como a Palavra de Deus, e validou, antecipadamente, o Novo Testamento. (Lc 24:44; Jo 17:20; Hb 1:1-2; Ap 22:18-19).
+
+Além dessas heresias contidas em afirmações diretas, colocadas na boca dos personagens, há muitos outros ensinos controversos transmitidos de forma sutil, por meio de imagens e situações, que não vamos abordar aqui.
 
 ## Para sua reflexão
 Você percebeu alguma dessas heresias ao ler o livro ou quando assistiu o filme? Que outros desvios doutrinários você notou nessa obra? Você se deu conta de o quanto essas heresias são perigosas, quando vêm sutilmente embaladas em beleza e emocionalismo?
