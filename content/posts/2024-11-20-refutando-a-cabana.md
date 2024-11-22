@@ -66,7 +66,7 @@ A seguir a lista das heresias levantadas pelo referido teólogo:
 
 **Refutação:** É evidente em todo o conteúdo da obra um esforço evidente em desacreditar a Bíblia, a Igreja e as Instituições. Ao contrário do que Paul Young tenta nos convencer, a Bíblia foi inspirada por Deus e é o registro fiel da revelação de Deus ao homem, feito sob a supervisão do Espírito Santo. O próprio Senhor Jesus citou o Antigo Testamento diversas vezes, ratificando-o como a Palavra de Deus, e validou, antecipadamente, o Novo Testamento. (Lc 24:44; Jo 17:20; Hb 1:1-2; Ap 22:18-19).
 
-Além dessas heresias contidas em afirmações diretas, colocadas na boca dos personagens, há muitos outros ensinos controversos transmitidos de forma sutil, por meio de imagens e situações, que não vamos abordar aqui.
+Além dessa lista de heresias, transmitidas em afirmações diretas, por meio dos diálogos dos personagens, há muitos outros ensinos controversos insinuados sutilmente por meio de imagens e situações, que não vamos abordar aqui.
 
 ## Para sua reflexão
 Você percebeu alguma dessas heresias ao ler o livro ou quando assistiu o filme? Que outros desvios doutrinários você notou nessa obra? Você se deu conta de o quanto essas heresias são perigosas, quando vêm sutilmente embaladas em beleza e emocionalismo?
