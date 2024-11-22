@@ -72,9 +72,11 @@ h4 {
 }
 
 .custom-navbar .navbar-brand img {
-    margin-top: -11px;
+    /* margin-top: -11px; */
+    margin-top: -15px;
     margin-left: 0;
-    width: 6.5rem;
+    /* width: 6.5rem; */
+    width: 14rem;
 }
 
 .custom-navbar .nav li a {

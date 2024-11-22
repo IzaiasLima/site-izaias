@@ -69,8 +69,8 @@ series = "series"
 
   show_description = true
   description = "Desenvolvedor de Sistemas, Programador Web experiente e Pastor evangélico. Neste site pessoal, compartilha seus e conhecimentos na área teológica e tecnológica."
-  favicon = "images/favicon.png"
-  logotipo = "images/logo.png"
+  favicon = "/images/icon-novo.png"
+  logotipo = "/images/logo-novo.png"
   
 [privacy]
 
