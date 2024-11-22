@@ -1,7 +1,7 @@
 ---
 title: "A lâmpada e o Acendedor"
 date: "2002-06-25"
-tags: ["cristianismo", "heresias", "apologética"]
+tags: ["cristianismo", "heresías", "apologética"]
 draft: false
 ---
 
@@ -11,7 +11,7 @@ Para seus adeptos, Deus é apenas uma força existente universo, em nada muito d
 
 Como podemos perceber, um deus em tudo muito semelhante ao conceito de divindade da maioria das religiões orientais. Qualquer semelhança como o Senhor nosso Deus terá sido mera coincidência. Ou melhor, mera adaptação, para torná-lo mais familiar aos olhos da cultura cristã, predominante no ocidente.
 
-Embora não se possa ter a pretensão de entender a fundo toda uma filosofia ou religião a partir de um único exemplar por ela editado, ainda assim é espantoso constatar o enorme número de vezes em que os ensinamentos dessa igreja entra em conflito com os princípios cristãos, mesmo quando comparamos apenas o conteúdo de um único exemplar da revista _Pomba Branca_[^1} com aquela que é a nossa infalível regra de fé, a Bíblia Sagrada.
+Embora não se possa ter a pretensão de entender a fundo toda uma filosofia ou religião a partir de um único exemplar por ela editado, ainda assim é espantoso constatar o enorme número de vezes em que os ensinamentos dessa igreja entra em conflito com os princípios cristãos, mesmo quando comparamos apenas o conteúdo de um único exemplar da revista _Pomba Branca_[^1] com aquela que é a nossa infalível regra de fé, a Bíblia Sagrada.
 
 Como dizia Albert Einstein, nem todas as experiências do mundo podem provar que alguma teoria esteja certa; porém, basta uma única experiência para provar que ela está errada.
 
@@ -28,7 +28,7 @@ Vejamos, então o que diz a Seicho-no-le, em comparação que diz a Bíblia Sagr
 
 >**"Digno és, Senhor, de receber glória e honra, e poder: porque Tu criastes todas as coisas, e por Tua vontade são e foram criadas" (Apocalipse 4.11).**
 
-2. "E quando esse personagem [Adão] dá nome aos seres vivos, tudo se torna (começa a ser) aquilo que ele diz ser" (Pag. 25).
+2. "E quando esse personagem [Adão] dá nome aos seres vivos, tudo se torna [começa a ser] aquilo que ele diz ser" (Pag. 25).
 
 >**"Havendo Deus formado da terra todo o animal do campo toda a ave dos céus, os trouxe a Adão para este ver como lhes chamaria. [Somente para dá-lhes os nomes, e não e para faze-los existir]" (Geneses 1.19).**
 
@@ -59,13 +59,12 @@ Vejamos, então o que diz a Seicho-no-le, em comparação que diz a Bíblia Sagr
 >**"Quem é homem para que tanto o estimes?" (Jó 7.17).**
 >
 >**"Todos pecaram" (Romanos 3.23.)**
-
-**"O salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna,
-por Cristo Jesus nosso Senhor" (Romanos 6.23).**
-
+>
+>**"O salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus nosso Senhor" (Romanos 6.23).**
+>
 >**"Pois Ele mesmo [Deus] é quem dá a todos a vida, a respiração e todas as coisas" (Atos 17.25).**
 >
->**"Eu, eu [Deus] sou aquele que vos consola; quem pois és tu, para que temas o homem, que é mortal, ou o filho do homem, que se tornará em feno? (Isaías 51.12)"**
+>**"Eu, eu [Deus] sou aquele que vos consola; quem pois és tu, para que temas o homem, que é mortal, ou o filho do homem, que se tornará em feno?" (Isaías 51.12)**
 
 7. "Sou filha da Vida, do Sol, da Luz" (Pag. 31).
 

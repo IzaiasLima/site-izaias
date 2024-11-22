@@ -1,7 +1,7 @@
 ---
 title: "Qual é a sua posição?"
 date: "2023-06-25"
-tags: ["paternidade", "filho pródigo", "sofrimento do justo", "confiança"]
+tags: ["paternidade", "filho pródigo", "sofrimento", "confiança"]
 draft: false
 ---
 

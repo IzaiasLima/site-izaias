@@ -2,9 +2,9 @@ baseURL = "https://www.izaias.com.br"
 theme = "nostyle"
 relativeURLs = true
 title = "Izaias Lima - Site Pessoal"
-paginate = 4
 languageCode = "pt-br"
-DefaultContentLanguage = "pt-br"
+defaultContentLanguage = "pt-br"
+removePathAccents = true
 enableInlineShortcodes = true
 
 [menu]
