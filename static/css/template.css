@@ -262,7 +262,6 @@ main {
 #posts p.caption {
     margin: 0;
     padding: 10px;
-    /* padding-top: 10px; */
     line-height: 1.3em;
     font-size: 16px;
 }
@@ -674,13 +673,11 @@ footer span {
 
     h2 {
         font-size: 30px;
-        line-height: .8em;
     }
 
     h2 a {
         line-height: .8em;
     }
-
 }
 
 /* end media 980 */
