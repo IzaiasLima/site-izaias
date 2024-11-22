@@ -4,8 +4,8 @@ date: "2024-11-16"
 category: [outlines]
 tags: ["investimento", "compromisso", "evangelismo", "ide"]
 ---
-#### Texto bíblico básico: 2 Timóteo 1:7-12 _(Texto auxiliar: João 6:24-29)_
 
+### Texto bíblico básico: 2 Timóteo 1:7-12 _(Texto auxiliar: João 6:24-29)_
 
 1) É fácil nos acomodarmos ao mundo e, com isso, prejudicar o propósito de Deus para nós, em particular, e para a Igreja, como corpo. No passado o homem era atraído aos templos pagãos, hoje aos templos de consumo. Antes predominada a perseguição, hoje, além dela, somos assediados pelo aumento da pecaminosidade. 
 
