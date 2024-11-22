@@ -143,13 +143,14 @@
 
                     <form id="contact-form">
                         <div class="col-md-4 col-sm-12 wow fadeIn" data-wow-delay="0.3s">
-                            <input type="text" placeholder="Name" name="user_name" class="form-control">
+                            <input type="text" placeholder="Name" name="user_name" class="form-control" required>
                         </div>
                         <div class="col-md-8 col-sm-12 wow fadeIn" data-wow-delay="0.3s">
-                            <input type="email" placeholder="Email" name="user_email" class="form-control">
+                            <input type="email" placeholder="Email" name="user_email" class="form-control" required>
                         </div>
                         <div class="col-md-12 col-sm-12 wow fadeIn" data-wow-delay="0.9s">
-                            <textarea name="message" class="form-control" rows="5" placeholder="Mensagem"></textarea>
+                            <textarea name="message" class="form-control" rows="5" placeholder="Mensagem"
+                                required></textarea>
                         </div>
                         <div class="col-md-offset-3 col-sm-offset-3 col-sm-6 col-md-6 wow fadeIn" data-wow-delay="0.3s">
                             <input type="submit" value="Enviar Mensagem" class="form-control">
@@ -162,6 +163,10 @@
     <!-- end contact -->
 
     {{- partial "footer.html" . -}}
+
+    <div id="toast" class="animate__animated animate__faster">
+        <!-- Exibir mensagem -->
+    </div>
 
 </body>
 
