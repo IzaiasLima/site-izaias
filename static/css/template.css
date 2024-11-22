@@ -326,11 +326,11 @@ blockquote {
     margin-left: -15px;
     margin-bottom: 20px;
     max-width: 450px;
-    /* padding: 7px; */
     padding: 2px;
 }
 
 .media-card h2 {
+    margin-top: 10px !important;
     text-align: center !important;
 }
 
@@ -672,6 +672,11 @@ footer span {
 
     h2 {
         font-size: 30px;
+        line-height: .8em;
+    }
+
+    h2 a {
+        line-height: .8em;
     }
 
 }

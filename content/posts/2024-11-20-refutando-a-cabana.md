@@ -4,7 +4,8 @@ date: "2024-11-20"
 featured: false
 banner: "cabana.jpg"
 copyright: "[Foto de Greg Rakozy na Unsplash](https://unsplash.com/pt-br/@grakozy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
-tags: ["heresias", "apologética"]
+summary: "A perda de entes queridos e o sofrimento não são desculpas para relativizarmos a verdade bíblica."
+tags: ["heresias", "apologética", "sofrimento"]
 ---
 
 Em um mundo tão cruel e injusto, é natural nos questionarmos por que existe tanta maldade e por que Deus não intervém para para mudar isso. O livro e, posteriormente o filme, _A Cabana_ colocou em evidência novamente esse tipo de questionamento, que tem acompanhado a cristandade desde muito tempo. Se Deus é bom e é Todo-Poderoso, por que não faz nada para amenizar o nosso sofrimento? Começa aí os problemas desse livro. Na tentativa de responder a essa pergunta, o autor abandona a forma como a Bíblia lida com o tema e se volta para uma abordagem mais humanística do problema do sofrimento. Ele tenta resolver esse dilema requentando heresias antigas e substituindo princípios cristãos por conceitos importados de religiões orientais e até do espiritismo. Paul Young, o autor canadense que escreveu o livro, deixa muito claro na sua obra o quanto ele acredita no universalismo, uma heresia que afirma que que todos, no final das contas, serão salvos.
