@@ -25,12 +25,13 @@ tags: ["fé", "humildade", "socorro"]
 
 ### Jesus não o tratou com desprezo ou com atitude sectária, pelo que ele representava do ponto de vista político.
 1. É importante saber fazer a distinção entre a pessoa e suas convicções políticas e religiosas.
-2. Jesus deixou claro que identidade religiosa ou partidária não define posição no Seu Reino. Virão pessoas de todos os lados e ocuparão o lugar que deveria pertencer ao povo judeu, que se consideravam os representantes de Deus.
+2. Jesus deixou claro que identidade religiosa ou partidária não define posição no Seu Reino.
+3. Virão pessoas de todos os lados e ocuparão o lugar que deveria pertencer ao povo judeu, que se consideravam os representantes de Deus.
 
 ### Em duas ocasiões Jesus ressalta a fé de um estrangeiro.
 1. Este centurião e a mulher siro-fenícia.
 2. Há pessoas que pensam que Jesus foi preconceituoso como relação àquela mulher.
-3. Jesus, provavelmente agiu daquela forma para que ela manifestasse o tamanho de sua fé, que Jesus queria ressaltar.
+3. Jesus, provavelmente, agiu daquela forma para que ela manifestasse o tamanho de sua fé, que Jesus queria ressaltar.
 4. Seu modo de tratar a mulher adultera, a mulher samaritana e outras mulheres não deixam margem para a acusação de misoginia e preconceito.
 5. Jesus usou formas diferentes, visando ressaltar a fé do centurião e a perseverança da mulher siro-fenícia.
 
@@ -39,6 +40,6 @@ tags: ["fé", "humildade", "socorro"]
 2. Com a mulher siro-fenícia aprendemos a ser perseverantes, quando parece que Deus não está nos ouvindo.
 3. Com ambos aprendemos que para Deus não importa se somos uma mãe humilde e
 desesperada ou uma pessoa de posição e autoridade.
-4. Com ambos aprendemos que o Senhor não despreza e está disposto a socorrer qualquer um que Dele se aproxima com um coração humilde e contrito.
+4. Com ambos aprendemos que o Senhor não despreza (e está disposto a socorrer) qualquer um que Dele se aproxima com um coração humilde e contrito.
 
 **Se tivermos a perseverança como aquela mulher, a confiança na autoridade de Jesus como aquele centurião e um coração sincero diante de Deus, teremos paz em nossa alma e a convicção de que a resposta amorosa de Deus às nossas súplicas não vai tardar.**
