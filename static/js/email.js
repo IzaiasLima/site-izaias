@@ -45,6 +45,6 @@ function showToast(msg, err = false) {
 
         toast.innerHTML = msg;
         toast.classList.add('show', 'animate__fadeInUp');
-        setTimeout(function () { toast.classList.remove('show', 'ok', 'err', 'animate__fadeInUp') }, len * 120);
+        setTimeout(function () { toast.classList.remove('show', 'ok', 'err', 'animate__fadeInUp') }, len * 150);
     }
 }

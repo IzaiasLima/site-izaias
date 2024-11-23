@@ -263,8 +263,8 @@ main {
 
 @media (max-width: 992px) and (orientation: portrait) {
     #toast {
-        width: 98vw;
-        left: 1vw
+        width: 94vw;
+        left: 3vw
     }
 }
 
@@ -326,6 +326,22 @@ main {
 
 #posts .row {
     margin-bottom: 50px;
+}
+
+#posts ol>li {
+    margin-top: 10px;
+}
+
+#posts ol>li>p {
+    margin-bottom: 0;
+}
+
+#posts ol li ol {
+    list-style-type: lower-alpha;
+}
+
+#posts ol li ol li {
+    margin-top: 5px;
 }
 
 #posts .tags-list {
