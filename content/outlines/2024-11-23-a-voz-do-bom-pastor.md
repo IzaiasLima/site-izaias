@@ -2,13 +2,13 @@
 title: "Redescobrindo a voz do Bom Pastor"
 date: "2024-11-23"
 category: [outlines]
-tags: ["cuidado", "fidelidade", "ovelha", "pastor"]
+tags: ["cuidado", "fidelidade", "ovelha", "pastor", "serie", "aprendendo ouvir"]
 draft: false
 ---
 
 **_Tenho ainda muito que lhes dizer, mas vocês não o podem suportar agora. Mas quando o Espírito da verdade vier, ele os guiará a toda a verdade. Não falará de si mesmo; falará apenas o que ouvir, e lhes anunciará o que está por vir. Ele me glorificará, porque receberá do que é meu e o tornará conhecido a vocês. Tudo o que pertence ao Pai é meu. Por isso eu disse que o Espírito receberá do que é meu e o tornará conhecido a vocês (João 16:12-15)._**
 
-1. Estamos iniciando uma nova série de lições, nos nossos Núcleos de Convivência, com o tema Aprendendo a ouvir a Palavra de Deus.
+1. Estamos iniciando uma nova série de mensagens com o tema geral _Aprendendo a ouvir a Palavra de Deus_.
 
 2. Havia, ainda, muitas coisas a serem reveladas aos discípulos por meio do Espírito Santo:
     
@@ -56,7 +56,7 @@ draft: false
     3. Jesus disse que suas ovelhas conhecem a sua voz;
 
     4. Precisamos reaprender a ouvir a voz de Jesus, por meio de Sua Palavra;
-    
+
     5. Não podemos confiar no nosso coração, pois ele é enganoso.
 
 8. Quando a voz que fala, diz exatamente o que queremos ouvir, precisamos redobrar o cuidado.
