@@ -2,7 +2,7 @@
 title: "Redescobrindo a voz do Bom Pastor"
 date: "2024-11-23"
 category: [outlines]
-tags: ["cuidado", "fidelidade", "ovelha", "pastor", "serie", "aprendendo ouvir"]
+tags: ["palavra", "ovelha", "pastor", "série", "aprendendo ouvir"]
 draft: false
 ---
 

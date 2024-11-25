@@ -37,7 +37,7 @@ esses?
     - Deram um jeito de subir para o teto, abrir um buraco e descê-lo.
 
 9. Quando levamos alguém até a presença de Jesus, Ele vai fazer algo
-muito **maior** do que nós estávamos pensando.
+muito maior do que nós estávamos pensando.
 
 10. Jesus disse ao paralítico: “Os teus pecados estão perdoados!”.
 
@@ -53,7 +53,7 @@ atitude deles foi a centelha que fez com que ele cresse novamente e
 se arrependesse.
 
 11. A mesma multidão que atrapalha alguém a se aproximar de Jesus, 
-**abre caminho** para que este se afaste Dele.
+abre caminho para que este se afaste Dele.
 
 12. Isso serve para refletirmos se a influência que estamos recebendo das
 pessoas à nossa volta ou dos meios de comunicação estão formando
@@ -72,7 +72,7 @@ um arauto de Deus.
 insistindo: “vamos tentar outra opção”.
 
 15. Eu não sei você, mas em mim, a atitude desses amigos causam um
-certo **desconforto**.
+certo desconforto.
 
     - Olhando para minha vida fico me perguntando quantos telhados
 eu já descobri e quantos paralíticos espirituais eu já levei até a
