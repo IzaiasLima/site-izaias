@@ -116,15 +116,25 @@ h4 {
     }
 
     .custom-navbar .nav li a {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         padding: 15px 5px;
+    }
+    
+    .custom-navbar .navbar-brand img {
+        margin-top: -10px;
+        width: 12rem;
+    }
+    
+    .custom-navbar .navbar-toggle {
+        border: none;
+        padding-top: 6px;
     }
 }
 
 @media(width < 767px) {
     .custom-navbar .nav li a {
         font-size: 1.7rem;
-        padding: 10px 25px;
+        padding: 7px 25px;
     }
 }
 
