@@ -80,7 +80,7 @@ h4 {
 .custom-navbar .nav li a {
     color: #55acee;
     font-weight: 300;
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     text-transform: uppercase;
 }
 
@@ -91,7 +91,7 @@ h4 {
 
 .custom-navbar .nav li.active>a {
     background-color: transparent;
-    color: #55acee;
+    color: #c9dceb;
 }
 
 .custom-navbar .navbar-toggle {
@@ -104,23 +104,46 @@ h4 {
     border-color: transparent;
 }
 
-@media(min-width:980px) {
+@media(width < 1200px) {
+     .custom-navbar .nav li a {
+        padding: 15px 10px;
+    }
+}
+
+@media(width < 991px) {
+    .navbar .container {
+        width: 100vw;
+    }
+
+    .custom-navbar .nav li a {
+        font-size: 1.5rem;
+        padding: 15px 5px;
+    }
+}
+
+@media(width < 767px) {
+    .custom-navbar .nav li a {
+        font-size: 1.7rem;
+        padding: 10px 25px;
+    }
+}
+
+@media(width > 990px) {
+    .navbar-toggle {
+        display: none;
+    }
+
     .custom-navbar {
         padding: 20px 0;
         border-bottom: 0;
         background: 0 0;
         transition: all 0.3s ease;
     }
-
-
+    
     .custom-navbar.top-nav-collapse {
         padding: 5px 0;
         box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.1);
         background: #fff;
-    }
-
-    .custom-navbar .nav li a {
-        font-size: 1.7rem;
     }
 }
 
@@ -261,7 +284,7 @@ main {
     background-color: #ee535d;
 }
 
-@media (max-width: 992px) and (orientation: portrait) {
+@media (width > 980px) and (orientation: portrait) {
     #toast {
         width: 94vw;
         left: 3vw
@@ -359,8 +382,6 @@ main {
 
 #copyright a {
     color: #595959;
-    /* margin-top: -5px; */
-    /* margin-left: -13px; */
     padding-left: 0px;
     font-size: 13px;
 }
@@ -408,7 +429,7 @@ blockquote {
     padding: 5px;
 }
 
-@media screen and (max-width:980px) {
+@media (width < 980px) {
     .media-card-mini {
         max-width: 95vw;
         margin-left: -15px;
@@ -721,7 +742,7 @@ footer span {
 /* end social icon */
 
 /* start media 980 */
-@media screen and (max-width: 980px) {
+@media (width < 980px) {
     #home h1 {
         font-size: 40px;
     }
@@ -739,7 +760,7 @@ footer span {
 
 
 /* start media 768 */
-@media screen and (max-width: 767px) {
+@media(width < 767px) {
     footer p {
         font-size: 13px;
     }
@@ -769,8 +790,6 @@ footer span {
 /* end media 768 */
 
 @media screen and (max-width: 440px) {
-
-
     h4 {
         padding-bottom: 15px;
         line-height: 1.5em;
@@ -785,14 +804,14 @@ footer span {
     }
 }
 
-@media screen and (max-width: 380px) {
+@media (width < 380px) {
     #featured .media .fa {
         margin-right: 5px;
     }
 }
 
 /* start media 360 */
-@media screen and (max-width: 360px) {
+@media (width < 360px) {
     #home h1 {
         font-size: 30px;
         line-height: 1.5em;
