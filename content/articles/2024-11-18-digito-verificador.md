@@ -5,7 +5,7 @@ category: [articles]
 featured: true
 banner: "dv.png"
 summary: "Quem já viu o cálculo do DV em outra linguagem, vai se surpreender com a beleza da solução em Python."
-tags: ["algorítimo", "listas", "python"]
+tags: ["algorítimo", "listas", "python", "programação"]
 ---
 
 Segundo a Wikipédia, "dígito verificador ou algarismo de controle é um mecanismo de autenticação utilizado para verificar a validade e a autenticidade de um valor numérico, evitando dessa forma fraudes ou erros de transmissão ou digitação. Consiste em um ou mais algarismos acrescentados ao valor original e calculados a partir deste através de um determinado algoritmo".[^1]
