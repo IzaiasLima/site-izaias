@@ -105,7 +105,7 @@ h4 {
 }
 
 @media(width < 1200px) {
-     .custom-navbar .nav li a {
+    .custom-navbar .nav li a {
         padding: 15px 10px;
     }
 }
@@ -119,12 +119,12 @@ h4 {
         font-size: 1.6rem;
         padding: 15px 5px;
     }
-    
+
     .custom-navbar .navbar-brand img {
         margin-top: -10px;
         width: 12rem;
     }
-    
+
     .custom-navbar .navbar-toggle {
         border: none;
         padding-top: 6px;
@@ -149,7 +149,7 @@ h4 {
         background: 0 0;
         transition: all 0.3s ease;
     }
-    
+
     .custom-navbar.top-nav-collapse {
         padding: 5px 0;
         box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.1);
@@ -338,10 +338,6 @@ main {
     font-size: 16px;
 }
 
-#posts p:has(strong) {
-    padding-top: 12px;
-}
-
 #posts a {
     font-size: 17px;
     font-weight: 500;
@@ -349,6 +345,7 @@ main {
 
 #posts sup a {
     font-size: unset;
+    font-weight: 500;
 }
 
 
@@ -367,6 +364,14 @@ main {
 
 #posts ol>li>p {
     margin-bottom: 0;
+}
+
+#posts ol>li[role="doc-endnote"], sup:has(a[class="footnote-ref"]) {
+    scroll-margin-top: 70px;
+}
+
+#posts ol>li[role="doc-endnote"] p {
+    font-size: 0.9em !important;
 }
 
 #posts ol li ol {
@@ -404,6 +409,7 @@ main {
 blockquote {
     border-left: 5px solid #55acee;
 }
+
 
 /* end posts  */
 
@@ -621,7 +627,7 @@ h3.about-title {
 
 .filter-wrapper li a {
     border: 1px solid #f2f2f2;
-    color: #999;
+    color: #6d7174;
     padding: 8px 17px;
     display: block;
     text-decoration: none;
