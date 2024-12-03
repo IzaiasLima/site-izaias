@@ -4,7 +4,7 @@ date: "2023-10-10"
 featured: true
 tags: ["fidelidade", "bondade", "divindade"]
 banner: "galinha.jpg"
-copyright: "[Flickr.com](flickr.com)"
+copyright: "[Flickr.com](http://flickr.com)"
 summary: "Deus tem alguma obrigação para comigo? E posso confiar que Ele é poderoso o suficiente para não falhar?"
 ---
 
