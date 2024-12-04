@@ -338,6 +338,16 @@ main {
     font-size: 16px;
 }
 
+#posts p:has(img) {
+    display: flex;
+}
+
+#posts p>img {
+    height: min-content;
+    padding-top: 5px;
+    padding-right: 20px;
+}
+
 #posts a {
     font-size: 17px;
     font-weight: 500;
@@ -347,7 +357,6 @@ main {
     font-size: unset;
     font-weight: 500;
 }
-
 
 #posts a.tags {
     font-size: 14px;
@@ -410,6 +419,16 @@ blockquote {
     border-left: 5px solid #55acee;
 }
 
+@media (width < 980px) {
+    #posts p:has(img) {
+        display: grid;
+    }
+    
+    #posts p>img {
+        max-width: 94vw;
+        padding-bottom: 20px;
+    }
+}
 
 /* end posts  */
 
