@@ -127,15 +127,16 @@ def func():
 Texto **negrito**, texto *italico*, texto _italico **negrito** italico_ e normal.
 
 {{< figure 
-    src="https://picsum.photos/800/450"
+    src="https://picsum.photos/480/130"
     alt="imagem aleatória"
-    caption="Imagem inserida com a tag `<figure>`."
-    >}}
-    
+    caption="Use _tag_ ```<figure>``` para combinar com textos que tenham formatação, como **negrito**, _sublinhados_ e _tags_ ```<code>```, por exemplo. Pois, caso contrário, usando a sintaxe básica do _markdown_ de exibição de imagens, o leiaute vai ficar quebrado, no template CSS que estamos usando."
+>}} 
 
-![Conteúdo da tag ALT](https://picsum.photos/480/400)
+![Conteúdo da tag ALT](https://picsum.photos/480/120)
+Exemplo de inserção de imagem usando formato markdown. Como este é um texto corrido normal, não tem problema a combinação de texto e imagem. O texto vai ficar lado-a-lado nas telas mais largas ou embaixo, nas telas pequenas.
 
-Exemplo de inserção de imagem usando formato markdown.
+![Conteúdo da tag ALT](https://picsum.photos/480/300)
+Exemplo de inserção de imagem usando formato markdown com um texto _formatado_ vai quebrar o leiaute, casando **problema**. Essa combinação de texto e imagem não funciona para o template CSS que estamos usando.
 
 
 [![Manny Pacquiao](https://img.youtube.com/vi/Yn-cvrmWO00/0.jpg)](https://youtu.be/Yn-cvrmWO00)

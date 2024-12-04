@@ -9,7 +9,8 @@ tags: ["hugo", "css", "markdown", "citação", "rodapé", "footnote"]
 Este site foi desenvolvido como o _framework_ Hugo[^1], um dos mais
 populares geradores de sites estáticos, _open-source_, que conheço. O conteúdo das páginas são escritos em linguagem de marcação Markdown[^2]. Isso torna o processo de edição de conteúdo (e acréscimo de páginas) algo muito simples, trivial até.
 
-Porém, um pequeno problema surgiu quando decidi formatar as notas de rodapé, como essa aqui[^3], usando uma fonte um pouco menor que a do texto principal. O Hugo cria o rodapé convertendo o _markdown_ num código HTML como o mostrado a seguir, onde a âncora para o link interno é identificada como ```id=fn:1, id=fn:2```, e assim por diante.
+Porém, um pequeno problema surgiu quando decidi formatar as notas de rodapé, como essa aqui[^3], usando uma fonte um pouco menor que a do texto principal. O Hugo cria o rodapé convertendo o _markdown_ num código HTML como o mostrado a seguir, onde a âncora para o link interno é identificada como ```id=fn:1, id=fn:2```, e assim por diante."
+
 
 ```html
 <ol>
@@ -68,7 +69,7 @@ sup:has(a[class="footnote-ref"]) {
 }
 ```
 
-Conheço o _framework_ Hugo há bastante tempo e já testei suas funcionalidades diversas vezes; mas esse é o primeiro projeto desenvolvido, de fato, com o uso dessa ferramenta. Pode ser que a situação descrita aqui não seja a forma como todos os temas do Hugo lidam com as referências cruzadas e as notas de rodapé. Se for sempre desse modo, talvez, então, seja uma situação conhecida e costumeiramente tratada por outros desenvolvedores. Contudo, vai que alguém está passando pelo mesmo problema! Por isso, compartilho aqui a solução adotada, esperando que seja útil.
+Conheço o _framework_ Hugo há bastante tempo e já testei suas funcionalidades diversas vezes, mas esse é o primeiro projeto desenvolvido, de fato, com o uso dessa ferramenta. Pode ser que a situação descrita aqui não seja a forma como todos os temas do Hugo lidam com as referências cruzadas e as notas de rodapé. Se for sempre desse modo, talvez, então, seja uma situação conhecida e costumeiramente tratada por outros desenvolvedores. Contudo, vai que alguém está passando pelo mesmo problema! Por isso, compartilho aqui a solução adotada, esperando que seja útil.
 
 
 [^1]: Hugo: https://gohugo.io/ 
