@@ -1,5 +1,5 @@
 ---
-title: "Cálculo do Digito Verificador em Python"
+title: "Cálculo do Dígito Verificador em Python"
 date: "2024-11-08"
 category: [articles]
 featured: true
