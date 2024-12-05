@@ -22,7 +22,7 @@ A Seicho-no-Ie diz, ainda, que as doenças não existem. "Doença é sombra da m
 
 ## Colocando lado a lado
 
-Vejamos, então o que diz a Seicho-no-le, em comparação que diz a Bíblia Sagrada, nos exemplos abaixo, extraídos de um único exemplar da _Pomba Branca_:
+Vejamos, então o que diz a Seicho-no-Ie, em comparação que diz a Bíblia Sagrada, nos exemplos abaixo, extraídos de um único exemplar da _Pomba Branca_:
 
 1. "Sendo o mundo fenomênico constituído por manifestações da mente, nele nada é eterno e tudo aparece e desaparece de acordo com a mudança da mente" (Pag. 30).
 
@@ -84,33 +84,26 @@ Vejamos, então o que diz a Seicho-no-le, em comparação que diz a Bíblia Sagr
 
 Esta lista poderia crescer indefinidamente, se fossemos examinar outros números da mesma revista ou um número qualquer de _O Acendedor_, mas cremos que já é o bastante.
 
-Que a Bíblia é inspirada por Deus, todos nós concordamos, mas de onde vem a inspiração das publicações da Seicho-no-le? Chegaremos à resposta quando respondermos também às seguintes perguntas: Quem é que sempre fez questão de por em dúvida a Palavra de Deus? Quem será o principal interessado em nos convencer de que o pecado não existe? Já que ele não existe, por que me preocuparia com ele? Todas as passagens da Bíblia que afirmam, direta ou indiretamente, que Cristo pagou pelos nossos pecados seriam mentirosas?
+Que a Bíblia é inspirada por Deus, todos nós concordamos, mas de onde vem a inspiração das publicações da Seicho-no-Ie? Chegaremos à resposta quando respondermos também às seguintes perguntas: Quem é que sempre fez questão de por em dúvida a Palavra de Deus? Quem será o principal interessado em nos convencer de que o pecado não existe? E, se ele não existe, por que me preocuparia com ele? Todas as passagens da Bíblia que afirmam, direta ou indiretamente, que Cristo pagou pelos nossos pecados seriam mentirosas?
 
-"Serpente disse à mulher: É assim que Deus disse: Não comereis de toda a árvore
+A serpente disse à mulher: É assim que Deus disse: Não comereis de toda a árvore
 do Jardim? E disse a mulher Serpente: Do fruto das árvores do Jardim comeremos,
 mas do fruto da árvore que está no meio do Jardim, disse Deus: Não comereis dele,
 nem nele tocarás, para que não morrais. Então a Serpente disse à mulher:
-Certamente não morrereis" (Genesis 3.1-4).
+Certamente não morrereis (Genesis 3.1-4).
 
-Deus diz: Morrereis. A Serpente, diz: Certamente não morrereis.
+Deus diz: "Morrereis." A Serpente, contradiz: "Certamente não morrereis."
 
-Falando do relato do capitulo 3 de Gênesis, a _Pomba Branca_ diz: "Isso é ficção, uma peça teatral chamada 'Pó da Terra'" (Pag. 16).
-
-Quem, desde o primcípio, vem tentando desacreditar a Palavra de Deus? Aquele a quem o Senhor Jesus chamou de _pai da mentira_, em João 8.44.
+Falando do relato do capitulo 3 de Gênesis, a _Pomba Branca_ diz: "Isso é ficção, uma peça teatral chamada 'Pó da Terra'" (Pag. 16). Quem, desde o princípio, vem tentando desacreditar a Palavra de Deus? Aquele a quem o Senhor Jesus chamou de _pai da mentira_, em João 8.44.
 
 Alguém perguntaria: Se a Seicho-no-Ie tem a intenção de contradizer os
 ensinamentos bíblicos, como é que a Bíblia é tantas vezes citada em suas publicações? Pelos seguintes motivos:
 
-1. Para parecer, aos que confiam na Bíblia, que falam a verdade e ganhar a simpatia destes;
+1. Para passar a impressão de que concordam com os ensinamentos da Palavra de Deus aos olhos daqueles que creem na Bíblia e ganhar a simpatia destes;
 
-2. Para fazer parecer que a Bíblia apoia suas doutrinas, torcendo a significado dos
-versículos.
+2. Para fazer parecer que a Bíblia apoia suas doutrinas, ressignificar o texto bíblico para fazer parecer que suas crenças têm base bíblica.
 
-Essa técnica, aliás, não é nova. O diabo já a havia utilizado quando tentou a Jesus. Vendo que Jesus não cedia à tentação, e para isso apoiava-se nas Escrituras, citando-as a cada ataque do inimigo, este evocou também as Escrituras dizendo:
-
->**"Se tu és filho de Deus, lança te de aqui abaixo, porque está escrito: Que aos seus anjos dará ordens a teu respeito: e tomar-te-ão nas mãos para que nunca tropeces em alguma pedra." (Mateus 4.6).**
-
-Damos graças a Deus por esse evento da tentação ter sido registrado, pois assim aprendemos o seguinte, a respeito do diabo:
+Essa técnica, aliás, não é nova; o nosso adversário a utiliza desde o Éden. Foi assim também na ocasião em que ele tentou Jesus. Vendo que Jesus não cedia à tentação --- e para isso apoiava-se nas Escrituras, citando-as a cada ataque do inimigo ---, o tentador evocou também as Escrituras, dando sua interpretação particular do texto. Graças a Deus que o episódio da tentação foi registrado, pois aprendemos algo valioso a respeito do tentador:
 
 1. Ele conhece a Bíblia (ele citou Salmos 91.11-12);
 
@@ -118,10 +111,10 @@ Damos graças a Deus por esse evento da tentação ter sido registrado, pois ass
 
 3. Ele torce o sentido do texto, dando lhe um sentido diferente do original.
 
-Diante desses fatos, podemos afirmar, sem sombra de dúvidas, que, se algumas vezes os ensinamentos da Seicho-no-Ie parecem concordar com aquilo que temos aprendido da parte de Deus, nada mais é do que um pouco de maquiagem, para enganar os mais incautos, o que, aliás, tem sido prática constante de Satanás — misturar a mentira com meias-verdades para dar-lhe um toque de credibilidade.
+Diante desses fatos, podemos afirmar sem sombra de dúvidas que, se às vezes os ensinamentos da Seicho-no-Ie parecem concordar com aquilo que cremos, isso é apenas um pouco de maquiagem para lhe dar uma aparência de cristianismo e atrair os cristãos desatentos, pouco instruídos na Palavra.
 
-Concluímos, que a doutrina Seicho-no-Ie é diferente das doutrinas da Bíblia Sagrada e, portanto, nociva ao verdadeiro cristão.
+Concluímos, que os ensinamentos da Seicho-no-Ie são diferentes das doutrinas da Bíblia Sagrada, portanto, nocivos ao verdadeiro cristão. Entra a _Lâmpada_ e o _Acendedor_, escolhemos a lâmpada.
 
 >**"Lâmpada para os meus pés é a Tua Palavra, e Luz para o meu caminho" (Salmos 119.105).**
 
-[^1]: Todas as citações deste texto foram extraídas do exemplar de _Pomba Branca_, Ano V, número 58. As inserções entre colchetes são comentários acrescentados por nós, para fins de esclarecimento.
+[^1]: Todas as citações deste texto foram extraídas do exemplar de _Pomba Branca_, Ano V, número 58, publicada em 1984. As inserções entre colchetes são comentários acrescentados por nós, para fins de esclarecimento.
