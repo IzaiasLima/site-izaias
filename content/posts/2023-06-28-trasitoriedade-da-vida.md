@@ -35,7 +35,7 @@ Então, ainda que a dor nos apanhe de surpresa e a saudade de nossos entes queri
 
 [^1]: Salmos 116:15.
 [^2]: 2 Coríntios 1:1; 1 Pedro 1:16.
-[^3]: Há outra corrente de interpretação em que a palavra original (_yaqar_, no hebraico, traduzida por _preciosa_) significaria algo de _alto custo_. Sendo assim, a exclamação seria algo como: "Por que você se apressou em vir? Eu investi muito em você! Você ainda tinha muito futuro pela frente!" Qualquer que seja o entendimento correto, me consola saber o quanto sou valioso para Deus.
+[^3]: Há outra corrente de interpretação em que a palavra original (_yaqar_, no hebraico, traduzida por _preciosa_) significaria algo de _alto custo_. Sendo assim, a exclamação soaria como: "Por que você se apressou em vir? Eu investi muito em você! Você ainda tinha muito futuro pela frente!" Qualquer que seja o entendimento correto, me consola saber o quanto sou valioso para Deus.
 [^4]: João 14:6.
 [^5]: 1 Coríntios 2:9.
 [^6]: Eclesiastes 9:10.
