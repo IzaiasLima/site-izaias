@@ -11,13 +11,13 @@
 "orientation": "any",
 "icons": [
     {
-        "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+        "src": "icons/icon512x512.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
     },
     {
-        "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+        "src": "icons/icon192x192.png",
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "any"
@@ -25,10 +25,16 @@
 ],
 "screenshots": [
     {
-        "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
+        "src": "images/IMG-2880x1800.png",
         "sizes": "2880x1800",
         "type": "image/png",
-        "description": "A screenshot of the home page"
+        "description": "Amostra da tela inicial"
+    },
+    {
+        "src": "images/IMG-2880x1800B.png",
+        "sizes": "2880x1800",
+        "type": "image/png",
+        "description": "Amostra da tela inicial"
     }
 ],
 "related_applications": [
