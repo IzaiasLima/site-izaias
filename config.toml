@@ -57,6 +57,7 @@ series = "series"
     "/css/template"]
 
   custom_js = [
+    "/js/service-worker",
     "/js/email",
     "/js/jquery",
     "/js/bootstrap.min",
