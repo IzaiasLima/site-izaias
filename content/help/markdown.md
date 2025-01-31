@@ -12,12 +12,13 @@ toc: true
 De h1 (#) a h6 (######)
 
 ## Detalhes
+
 ### O que é?
+
 É um padrão HTML que não é suportado nativamente pelo markdown, mas pode ser implementado assim:
 {{< details summary="Mostrar detalhes" >}}
 Aqui fica o texto a ser detalhado.
 {{< /details >}}
-
 
 ## Parágrafos
 
@@ -25,13 +26,12 @@ Um parágrafo: Proident fugiat tempor deserunt reprehenderit fugiat tempor deser
 
 Outro parágrafo: Incididunt commodo nisi velit est est elit et dolore elit exercitation. Enim aliquip magna id ipsum aliquip consectetur ad nulla quis. Incididunt pariatur dolor consectetur cillum enim velit cupidatat laborum quis ex.
 
-
 ## Citações
 
 Este é um parágrafo normal: Sint ex Lorem mollit laborum dolor amet est ut esse aute.
 
 > Isto é uma citação.
->
+> 
 > Com dois parágrafos.
 
 [[Top]](#top)
@@ -62,6 +62,7 @@ Este é um parágrafo normal: Sint ex Lorem mollit laborum dolor amet est ut ess
 ## Separador horizontal
 
 ***
+
 Este acima, ou este abaixo, tanto faz.
 
 ---
@@ -69,14 +70,13 @@ Este acima, ou este abaixo, tanto faz.
 Mas se ficar colado no texto de cima transforma o texto em um cabeçalho.
 ---
 
-
 ## Tabela
 
-| Heading             | Center align   | Right align      |
-|:------------------- |:--------------:| ----------------:|
-| Linha 1, coluna 1   | Lin 1, col 2   | Linha 1, coluna 3|
-| Linha 2, coluna 1   | Lin 2, col 2   | Linha 2, coluna 3|
-| Item 2              | Item 3         | Item 4           |
+| Heading           | Center align | Right align       |
+|:----------------- |:------------:| -----------------:|
+| Linha 1, coluna 1 | Lin 1, col 2 | Linha 1, coluna 3 |
+| Linha 2, coluna 1 | Lin 2, col 2 | Linha 2, coluna 3 |
+| Item 2            | Item 3       | Item 4            |
 
 [[Top]](#top)
 
@@ -130,7 +130,8 @@ Texto **negrito**, texto *italico*, texto _italico **negrito** italico_ e normal
     src="https://picsum.photos/480/130"
     alt="imagem aleatória"
     caption="Use _tag_ ```<figure>``` para combinar com textos que tenham formatação, como **negrito**, _sublinhados_ e _tags_ ```<code>```, por exemplo. Pois, caso contrário, usando a sintaxe básica do _markdown_ de exibição de imagens, o leiaute vai ficar quebrado, no template CSS que estamos usando."
->}} 
+
+> }} 
 
 ![Conteúdo da tag ALT](https://picsum.photos/480/120)
 Exemplo de inserção de imagem usando formato markdown. Como este é um texto corrido normal, não tem problema a combinação de texto e imagem. O texto vai ficar lado-a-lado nas telas mais largas ou embaixo, nas telas pequenas.
@@ -138,8 +139,6 @@ Exemplo de inserção de imagem usando formato markdown. Como este é um texto c
 ![Conteúdo da tag ALT](https://picsum.photos/480/300)
 Exemplo de inserção de imagem usando formato markdown com um texto _formatado_ vai quebrar o leiaute, casando **problema**. Essa combinação de texto e imagem não funciona para o template CSS que estamos usando.
 
-
 [![Manny Pacquiao](https://img.youtube.com/vi/Yn-cvrmWO00/0.jpg)](https://youtu.be/Yn-cvrmWO00)
-
 
 Exemplo de link de vídeo do Youtube.
