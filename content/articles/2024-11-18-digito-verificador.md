@@ -12,7 +12,6 @@ Segundo a Wikipédia, "dígito verificador ou algarismo de controle é um mecani
 
 Nos anos 80s, 90s a informatização ainda era embrionária. Para abrir uma conta, os funcionários recorriam a uma tabela fornecida pela central de processamento que já vinha com o dígito verificador calculado. Por exemplo, o último dígito **3** na conta **1234-3** é o dígito verificador (DV). Existe também DV para CPF e CNPJ. Nestes documentos, os dois últimos algarismos é o dígito verificador.
 
-No Brasil, os padrões mais usados são o Módulo 11 e o Módulo 10, cujos algorítimos são facilmente encontrados numa busca rápida na Web, por isso não vou reproduzí-los aqui. Se tiver curiosidade, procure também exemplos de rotinas que implementem o cálculo em alguma linguagem de programação, como o Java, por exemplo.
 
 Se você já viu ou já escreveu uma solução para o algorítimo Módulo 11 em qualquer outra linguagem, vai se surpreender com a simplicidade da solução usando _list comprehension_[^2] em Python:
 

@@ -21,7 +21,7 @@ Ver-nos retornar à posição reservada para cada um de nós no Seu reino de paz
 
 ## Significa dizer que o justo não sofre?
 
-Quando afirmamos que não seremos atingidos, estamos nos referindo às forças espirituais do mal. Os problemas decorrentes da vida humana, causados por nossas escolhas ou pela interferência de outros, ainda nos atingirão. Milhões de cristãos são perseguidos por cauda da fé no mundo inteiro. Jesus disse: No mundo tereis aflições. Mas saber quem somos, a quem pertencemos, quem é o nosso Pai, nos dá a firmeza necessária para permanecermos de pé.
+Quando afirmamos que não seremos atingidos, estamos nos referindo às forças espirituais do mal. Os problemas decorrentes da vida humana, causados por nossas escolhas ou pela interferência de outros, ainda nos atingirão. Milhões de cristãos, no mundo inteiro, são perseguidos por causa de sua fé. Jesus disse: "No mundo tereis aflições". Mas saber quem somos, a quem pertencemos e quem é o nosso Pai, nos dá a firmeza necessária para permanecermos de pé.
 
 ## O problema do sofrimento do justo
 
