@@ -17,7 +17,7 @@ Assim, correndo o risco de ser injusto com uma ou outra excelente opção, apres
    
    - **pip** (Pip Installs Packages): O gerenciador de pacotes padrão para Python. Ele é usado para instalar e gerenciar pacotes Python de repositórios Python Package Index (PyPI) e outros.
    - **Poetry**: Também um queridinho de muitos desenvolvedores Python, promete resolver dependências de forma exaustiva, de modo a sempre garantir a perfeita compatibilidade entre os pacotes, se essa solução existir.
-   - **UV** é a mais recentes dessas ferramentas. Moderna e extremamente rápida para gestão de ambientes e pacotes do Python, ela foi desenvolvida pela Astral (a mesma equipe responsável pelo Ruff). Por ser escrita em Rust, a **uv** chega a ser de 10 a 100 vezes mais rápida que o **pip**, automatizando a resolução de dependências e tornando a instalação de pacotes praticamente instantânea. Além disso, substitui completamente o pip, pip-tools, pipx, poetry e pyenv, unificando tudo em uma só ferramenta.
+   - **uv** é a mais recentes dessas ferramentas. Moderna e extremamente rápida para gestão de ambientes e pacotes do Python, ela foi desenvolvida pela Astral (a mesma equipe responsável pelo Ruff). Por ser escrita em Rust, a **uv** chega a ser de 10 a 100 vezes mais rápida que o **pip**, automatizando a resolução de dependências e tornando a instalação de pacotes praticamente instantânea. Além disso, substitui completamente o pip, pip-tools, pipx, poetry e pyenv, unificando tudo em uma só ferramenta.
 
 3. **Ruby**:
    
