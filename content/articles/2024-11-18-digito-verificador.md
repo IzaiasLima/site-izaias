@@ -61,7 +61,7 @@ def dv(nr):
 	return str(0 if d > 9 else d)
 
 ```
-A função criada com o comando ```def dv(nr)``` espera receber um valor numérico como _string_, entre aspas, que no Python tanto podem ser simples como duplas. E , na última linha, retorna o resultado, testando a seguinte condição: se o dígito encontrado estiver entre 0 e 9, retorna o próprio dígito; caso seja 10, retorna 0 (zero). Alguns bancos usam a letra **_X_**, quando o dígito é 10.
+A função criada com o comando ```def dv(nr)``` espera receber um valor numérico como _string_, entre aspas, que no Python tanto podem ser simples como duplas. E, na última linha, retorna o resultado, testando a seguinte condição: se o dígito encontrado estiver entre 0 e 9, retorna o próprio dígito; caso seja 10, retorna 0 (zero). Alguns bancos usam a letra **_X_**, quando o dígito é 10.
 
 Toda a complexidade do cálculo está condensada e resolvida na linha ```d = sum(...)```. Vamos dissecar cada trechinho dessa linha, para entender o que está acontecendo, começando pelo trecho ```nr.rjust(10,'0')```. Esse código pega o valor recebido em **nr** e alinha à direita, preenchendo com zeros à esquerda até o tamanho de 10 dígitos. Se o valor recebido foi "1234", ele passa a ser "0000001234" e estará pronto para as próximas etapas do cálculo.
 
