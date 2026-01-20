@@ -2,7 +2,7 @@
 title: "Principais Gerenciadores de Dependências"
 date: "2024-11-17"
 category: [articles]
-tags: ["gerenciadores", "dependências", "programação"]
+tags: ["gerenciadores", "dependências", "programação", "python"]
 ---
 
 Quem é da área de programação sabe que não pode prescindir dos gerenciadores de dependências. Para cada linguagem pode haver um ou mais disponível, já que a criatividade dos desenvolvedores, especialmente a turma do software livre, é tão grande quanto as preferências e necessidades específicas de cada um.
@@ -17,6 +17,7 @@ Assim, correndo o risco de ser injusto com uma ou outra excelente opção, apres
    
    - **pip** (Pip Installs Packages): O gerenciador de pacotes padrão para Python. Ele é usado para instalar e gerenciar pacotes Python de repositórios Python Package Index (PyPI) e outros.
    - **Poetry**: Também um queridinho de muitos desenvolvedores Python, promete resolver dependências de forma exaustiva, de modo a sempre garantir a perfeita compatibilidade entre os pacotes, se essa solução existir.
+   **UV** é a mais recentes dessas ferramentas. Moderna e extremamente rápida para gestão de ambientes e pacotes do Python, ela foi desenvolvida pela Astral (a mesma equipe responsável pelo Ruff). Por ser escrita em Rust, chega a ser de 10 a 100 vezes mais rápida que pip, tornando a instalação e a resolução de dependências praticamente instantâneas. Além disso, substitui completamente o pip, pip-tools, pipx, poetry e pyenv, unificando tudo em uma ferramenta só.
 
 3. **Ruby**:
    
