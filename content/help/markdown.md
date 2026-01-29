@@ -129,9 +129,7 @@ Texto **negrito**, texto *italico*, texto _italico **negrito** italico_ e normal
 {{< figure 
     src="https://picsum.photos/480/130"
     alt="imagem aleatória"
-    caption="Use _tag_ ```<figure>``` para combinar com textos que tenham formatação, como **negrito**, _sublinhados_ e _tags_ ```<code>```, por exemplo. Pois, caso contrário, usando a sintaxe básica do _markdown_ de exibição de imagens, o leiaute vai ficar quebrado, no template CSS que estamos usando."
-
-> }} 
+    caption="Use _tag_ ```<figure>``` para combinar com textos que tenham formatação, como **negrito**, _sublinhados_ e _tags_ ```<code>```, por exemplo. Pois, caso contrário, usando a sintaxe básica do _markdown_ de exibição de imagens, o leiaute vai ficar quebrado, no template CSS que estamos usando.">}} 
 
 ![Conteúdo da tag ALT](https://picsum.photos/480/120)
 Exemplo de inserção de imagem usando formato markdown. Como este é um texto corrido normal, não tem problema a combinação de texto e imagem. O texto vai ficar lado-a-lado nas telas mais largas ou embaixo, nas telas pequenas.

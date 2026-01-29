@@ -2,7 +2,7 @@
 title: "Eu Sou a Ressurreição e a Vida"
 date: "2024-11-23"
 category: [outlines]
-tags: ["fé", "vida com Deus", "série", "evangelho de joão"]
+tags: ["fé", "vida com Deus", "vida cristã", "série", "evangelho de joão"]
 draft: false
 ---
 
