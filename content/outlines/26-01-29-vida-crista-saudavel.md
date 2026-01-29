@@ -7,7 +7,7 @@ tags: ["vida cristã", "secularismo"]
 
 ### Texto bíblico básico: 2 Pedro 1
 
-**Neste sermão percorremos o primeiro capítulo de 2 Pedro, comentando versículo por versículo, para ressaltarmos o verdadeiro sentido da vida cristã, evidenciando como o secularismo da sociedade atual que tem invadido as igrejas ocidentais.**
+**Neste sermão percorremos o primeiro capítulo de 2 Pedro, comentando versículo por versículo, para ressaltarmos o verdadeiro sentido da vida cristã, evidenciando como o secularismo da sociedade atual tem invadido a igreja ocidental.**
 
 1. Fé preciosa obtida pela justiça de Deus na cruz.
 2. Bênçãos multiplicadas pelo conhecimento de Deus.
@@ -26,7 +26,7 @@ tags: ["vida cristã", "secularismo"]
    - Novo hedonismo: drogas recreativas, redes sociais, relacionamentos descartáveis, permissividade, uma pílula mágica para cada problema. 
   
 7. Fé → Virtude → Temperança (autocontrole, domínio próprio) → Paciência (perseverança) → Piedade (devoção a Deus) → Fraternidade (dedicação ao próximo, comunhão; traduzido como _gentileza fraternal_ na versão da bíblia BJK) → Amor (amor desinteressado, amor altruísta, dedicação ao outro; não confundir _caridade_ com filantropia) 
-8. (v.8-9) O conhecimento pode ser estéril, se não for acompanhado de ações práticas. Se faltar isso na vida do crente, isso revela a falta de uma visão de longo prazo, denuncia a falta de crescimento espiritual.
+8. (v.8-9) O conhecimento pode ser estéril, se não for acompanhado de ações práticas. Se faltar isso na vida do crente, revela a falta de uma visão de longo prazo, denuncia a falta de crescimento espiritual.
 9. Trabalhem, se esforcem. Deus fez a Sua parte e espera que façamos a nossa.
 10. Entrada no Reino (agora, não um evento escatológico), algo valioso, não banal ou trivial.
 
